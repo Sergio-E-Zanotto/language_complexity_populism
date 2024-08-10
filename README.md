@@ -1,8 +1,8 @@
-# Language Complexity in Populism
+# Language Complexity in Populist Rhetoric
 
 This repository contains the code and data for the paper:
 
-**Linguistic profiling of political texts: Language complexity in populist rhetoric**
+**Language complexity in populist rhetoric**
 
 ## Description
 
