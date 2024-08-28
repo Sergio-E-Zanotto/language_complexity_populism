@@ -1,0 +1,563 @@
+ID,TARGET,POS,INDEX,TEXT,CONC_AVG,CONC_SD,WN_SYNSET,TARGET_LEXICAL_ACCESSIBILITY,SENTENCE_LEXICAL_ACCESSIBILITY,LEXICAL_DENSITY,SENTENCE_LENGTH,CLAUSES,AVG_TOKEN_PER_CLAUSE,SYNTACTIC_TREE_DEPTH
+98,accordo,N,1,Un accordo di solito è maggiore o minore. ,4.47,1.8,06869951-n,0.308,0.179555556,0.5,9,1,9,3
+96,accordo,N,1,Prendi accordi con le compagnie aeree a cui affidare il tuo animale. ,3.1,1.84,06770275-n,0.346,0.260384615,0.5,13,2,6.5,5
+100,accordo,N,1,"Gli accordi vengono prodotti suonando più note per volta, creando così un'armonia. ",4.85,1.7,06869951-n,0.346,0.248733333,0.692307692,15,3,5,4
+97,accordo,N,8,Le persone saranno più disposte a essere d'accordo con te se ti apprezzano. ,2,1.27,13971065-n,0.308,0.2282,0.357142857,15,3,5,3
+95,accordo,N,4,"Una volta raggiunto un accordo sul prezzo, il compratore versa un piccolo deposito. ",4.03,1.79,06770275-n,0.308,0.25,0.571428571,16,2,8,4
+99,accordo,N,5,Non è possibile andare d'accordo con tutti. ,2.85,1.6,13971065-n,0.308,0.170888889,0.5,9,2,4.5,3
+467,acqua,N,4,Raccogli un campione di acqua con un contenitore pulito. ,6.85,0.37,07935504-n,0.308,0.269333333,0.444444444,10,1,10,2
+468,acqua,N,4,"Se stai nuotando in acqua dolce, stabilisci la tua posizione. ",6.31,1.32,09225146-n,0.308,0.282166667,0.6,12,3,4,4
+469,acqua,N,4,Igienizza le mani con acqua di rubinetto e sapone antibatterico. ,6.57,0.94,07935504-n,0.308,0.325,0.5,11,1,11,4
+470,acqua,N,5,Sciacqua un limone maturo con acqua fredda e tamponalo con un tovagliolo. ,6.47,1.14,07935504-n,0.308,0.388090909,0.5,13,1,13,4
+2,affascinare,V,8,Guardati i piedi o fai finta di essere affascinata dalla copertina del tuo libro. ,2.4,1.57,01817314-v,0.577,0.271866667,0.4375,17,3,5.666666667,6
+1,affascinare,V,1,Sei affascinato dal funzionamento della mente umana? ,1.87,1.38,01817314-v,0.5,0.274,0.444444444,10,1,10,3
+3,affogare,V,12,Molte persone tralasciano l'idea di imparare a nuotare perché temono di affogare. ,6.07,1.49,00360501-v,0.615,0.307692308,0.538461539,14,5,2.8,5
+5,affogare,V,11,"L'importante è che non siano troppo grandi, nessuno vuole affogare in litri di tè. ",2.63,1.62,00360501-v,0.615,0.2235625,0.533333333,17,3,5.666666667,5
+4,affogare,V,14,Non dare troppa acqua: le radici superficiali amano l'acqua ma non devono affogare. ,5.03,1.88,,0.615,0.272071429,0.642857143,16,3,5.333333333,3
+6,affogare,V,8,"Dopo la rottura, forse sarai tentata di affogare il dispiacere in cibi poco salutari. ",2.76,1.85,00472532-v,0.615,0.2835625,0.571428571,16,2,8,4
+54,amico,N,2,Recluta qualche amico robusto per farti aiutare. ,6.14,1.19,10112591-n,0.346,0.3365,0.714285714,8,2,4,4
+53,amico,N,7,"Se non riesci a separarti dai tuoi amici virtuali, tieniti in contatto con loro via chat. ",4.94,1.53,10112591-n,0.346,0.2885,0.5,19,3,6.333333333,5
+52,amico,N,8,"Crea dei biglietti da visita, dillo ad amici e familiari e pubblicizza l'evento sulle bacheche locali. ",5.97,1.43,10112591-n,0.346,0.296235294,0.52631579,21,2,10.5,4
+51,amico,N,4,"Anche se non siete amici, puoi visualizzare tutto ciò che una persona rende pubblico sul proprio profilo social. ",3.83,1.97,10112591-n,0.346,0.24035,0.473684211,21,3,7,4
+215,amore,N,7,Quasi tutti sono in grado di ricevere amore e gentilezza. ,2.1,1.16,07544647-n,0.308,0.202727273,0.5,11,2,5.5,4
+216,amore,N,5,"Pensa ai tuoi sentimenti di amore, passione e la sessualità. ",2.6,1.61,07488340-n,0.308,0.214833333,0.454545455,13,1,13,4
+217,amore,N,1,"L'amore è cieco, perciò cerca di aprire volontariamente gli occhi. ",1.89,1.34,,0.308,0.230923077,0.545454546,13,3,4.333333333,4
+218,amore,N,1,"L'amore potrebbe essere cieco, ma non è corrotto o stupido. ",2.04,1.51,,0.308,0.216076923,0.454545455,13,2,6.5,3
+219,amore,N,5,"Determina la differenza, tra amore, infatuazione e passione. ",2.16,1.7,07488340-n,0.308,0.2384,0.625,11,1,11,4
+220,amore,N,5,Costruire una base per l'amore fisico richiede tempo. ,3.21,1.93,07488340-n,0.308,0.2155,0.666666667,10,2,5,4
+7,apprendere,V,3,Puoi provare ad apprendere le tecniche di potatura per cercare di rivitalizzare la tua pianta. ,3.73,1.66,00597915-v,0.462,0.276933333,0.466666667,16,4,4,5
+9,apprendere,V,6,"Gli adolescenti interagiscono, giocano e apprendono informazioni grazie alla rete. ",4,1.88,00598954-v,0.577,0.2725,0.636363636,13,3,4.333333333,4
+8,apprendere,V,5,"Ora che il cane ha appreso come abbaiare a comando, il prossimo passo sarà farlo smettere. ",3.15,1.72,00597915-v,0.462,0.251176471,0.529411765,19,4,4.75,5
+10,apprendere,V,8,Vedi la separazione come un'opportunità da cui apprendere la lezione per superare la delusione. ,2.5,1.4,00597915-v,0.462,0.257461539,0.466666667,16,3,5.333333333,7
+183,aria,N,4,Accendi il condizionatore sull'aria fredda ma non attivare la funzione di ricircolo. ,5.63,1.25,,0.346,0.283923077,0.571428571,15,2,7.5,4
+185,aria,N,4,Chi vuole darsi delle arie di superiorità usa tono accondiscendente e battute dello stesso tipo. ,1.73,1.14,04897762-n,0.538,0.3005,0.5,19,2,9.5,5
+184,aria,N,5,Asciuga i capelli con l'aria fredda. ,6,1.24,,0.346,0.25475,0.571428571,8,1,8,2
+186,aria,N,7,Non parlare alla tua amica con un'aria di sufficienza e non trattarla come se fosse debole. ,2.07,1.41,04897762-n,0.346,0.244352941,0.473684211,20,3,6.666666667,3
+11,arrugginire,V,7,I migliori samurai lasciano la spada ad arrugginire nel fodero. ,4.79,2.21,00273963-v,0.731,0.325090909,0.545454546,12,2,6,3
+13,arrugginire,V,13,"Più tempo trascorri senza usare le tue capacità, più il cervello si arrugginisce. ",2.39,1.55,00273963-v,0.769,0.272,0.615384615,15,3,5,3
+12,arrugginire,V,4,Le corde consumate o arrugginite si scordano più facilmente e rovinano le tue dita. ,6.29,1.3,00273963-v,0.654,0.343357143,0.571428571,15,2,7.5,4
+14,arrugginire,V,12,"Se ti limiti a comunicare a monosillabi, probabilmente sarai un po' arrugginita e imbarazzata. ",2.63,1.42,00273963-v,0.654,0.289733333,0.5,16,4,4,5
+337,arte,N,10,Osserva come lo zentangle si differenzia dalle altre forme d'arte visiva. ,3.3,1.56,00933420-n,0.308,0.265818182,0.538461539,14,2,7,4
+339,arte,N,7,"Tirare su il prezzo è una vera arte, dunque inizia a coltivarla sin da ora. ",1.87,1.36,05637558-n,0.308,0.239823529,0.5625,18,4,4.5,5
+340,arte,N,5,Incidere il cuoio è un'arte artigianale che può essere appresa da tutti. ,3.63,1.9,05638063-n,0.308,0.238928571,0.384615385,14,3,4.666666667,3
+338,arte,N,2,La migliore arte proviene dal comunicare la propria persona in maniera autentica. ,2.97,2.03,02743547-n,0.308,0.2565,0.538461539,14,2,7,3
+15,assicurare,V,8,"Avvitando il bullone le alette si allargheranno, assicurando il rivetto al soffitto. ",4.67,1.94,,0.462,0.375692308,0.538461539,15,3,5,3
+18,assicurare,V,0,Assicurati che le persone sappiano che stai facendo un buon lavoro. ,2.07,1.24,00890590-v,0.5,0.251636364,0.636363636,12,4,3,5
+16,assicurare,V,0,Assicurati che i dispositivi acustici utilizzati siano correttamente collegati al computer e in funzione. ,4.48,2.21,00890590-v,0.5,0.266533333,0.533333333,16,3,5.333333333,6
+17,assicurare,V,7,Fai una lista delle tue priorità per assicurarti di raggiungere le mete che ti sei proposto. ,2.91,1.81,00890590-v,0.654,0.257882353,0.388888889,19,4,4.75,5
+20,attivare,V,4,Vai alla centralina e attiva la corrente elettrica. ,5.19,1.41,01857717-v,0.385,0.256444444,0.555555556,10,2,5,3
+21,attivare,V,11,Lo zucchero fornirà il nutrimento necessario al lievito per incoraggiarlo ad attivare il suo metabolismo. ,3.73,1.73,01643657-v,0.423,0.3076,0.470588235,18,3,6,4
+19,attivare,V,13,"Ruota le caviglie e allunga i quadricipiti e i polpacci, così da attivare la circolazione. ",4.68,1.47,01643657-v,0.423,0.2896,0.533333333,17,3,5.666666667,4
+22,attivare,V,7,Camminare anche solo per poco tempo può attivare la mente e il corpo. ,3.43,1.85,01643657-v,0.423,0.197714286,0.538461539,14,2,7,4
+427,automobile,N,13,"Attualmente la forma più comune di inquinamento acustico deriva dai trasporti, soprattutto automobili, motociclette e aeroplano. ",6.57,0.86,02958343-n,0.462,0.273555556,0.705882353,20,2,10,3
+425,automobile,N,2,Guidare un'automobile è una delle cose potenzialmente più pericolose che si possa fare. ,6.23,1.5,02958343-n,0.462,0.228,0.466666667,16,3,5.333333333,3
+426,automobile,N,2,Guidare un'automobile con cambio automatico è più semplice rispetto a guidarne una con cambio manuale. ,6.96,0.19,02958343-n,0.462,0.2744,0.588235294,18,3,6,4
+428,automobile,N,10,Alcuni meccanici si specializzano in particolari tipi di riparazione di automobili. ,6.48,1.34,02958343-n,0.462,0.300727273,0.545454546,12,1,12,4
+430,automobile,N,3,Il radiatore dell'automobile svolge un ruolo importante di regolazione della temperatura del motore. ,6.39,1.17,02958343-n,0.462,0.241066667,0.470588235,18,1,18,5
+429,automobile,N,6,La corretta installazione del seggiolino per automobile viene spesso sottovalutata e mette in pericolo la vita del neonato. ,6.52,0.91,02958343-n,0.462,0.276058824,0.5,21,2,10.5,4
+123,avventura,N,16,Circa i 2/3 degli uomini che tradiscono rivela di sentirsi in colpa dopo aver avuto un'avventura extraconiugale.,3.96,1.78,13931436-n,0.423,0.285368421,0.45,21,4,5.25,4
+124,avventura,N,6,"Dal momento che la storia d'avventura è ormai conclusa, scrivine il titolo. ",3.19,1.67,00796315-n,0.423,0.225533333,0.5,16,1,16,4
+122,avventura,N,11,Prepara il discorso che farai alla persona con cui hai un'avventura ed esponi le cose in modo definitivo. ,3.5,1.31,13931436-n,0.423,0.253,0.5,21,4,5.25,6
+121,avventura,N,9,Regalati una vacanza o un weekend all'insegna dell'avventura. ,2.97,1.52,00796315-n,0.423,0.269181818,0.416666667,13,1,13,3
+512,bambino,N,2,Adulti e bambini devono avere il passaporto per espatriare anche via mare o terra. ,6.1,1.4,09917593-n,0.308,0.243666667,0.571428571,15,2,7.5,4
+513,bambino,N,7,"Prima della data prevista della nascita del bambino, devi stabilire chi sarà presente per aiutarti. ",6.67,0.61,09918248-n,0.346,0.2331875,0.444444444,20,2,10,4
+24,benedire,V,2,"Impara a benedire, invece che a criticare. ",1.93,1.21,02264075-v,0.577,0.245125,0.571428571,9,3,3,4
+23,benedire,V,11,Ricorda che l'intelligenza e la cultura sono andate a farsi benedire. ,1.44,1.01,,0.577,0.218846154,0.461538462,14,4,3.5,4
+25,calciare,V,1,Non calciare il pallone troppo in alto. ,6.34,1.19,01371756-v,0.654,0.2405,0.714285714,8,1,8,2
+27,calciare,V,10,Fai il primo passo con il piede che usi per calciare. ,6.13,1.36,01371756-v,0.654,0.248181818,0.545454546,12,3,4,5
+26,calciare,V,4,"Hai mai imprecato, calciato qualcosa e urlato frasi oscene, spaventando chi ti era vicino? ",6.03,1.6,01371756-v,0.654,0.3605625,0.571428571,17,5,3.4,3
+28,calciare,V,6,Lo stretching costante ti permetterà di calciare più in alto e più velocemente. ,6.43,0.98,01371756-v,0.654,0.269307692,0.615384615,14,2,7,3
+421,campione,N,3,"Generalmente, un campione di sangue verrà sottoposto a diversi esami differenti, oltre a quello per il colesterolo. ",6.1,1.42,05266879-n,0.385,0.232888889,0.470588235,20,1,20,3
+423,campione,N,2,Osservare un campione al microscopio permette di focalizzarlo meglio e di analizzarlo in modo più particolareggiato. ,6,1.26,09421425-n,0.385,0.2908125,0.52631579,20,4,5,5
+424,campione,N,6,Alcuni marchi di profumi possono fare campioni omaggio quando un nuovo profumo viene lanciato sul mercato. ,6.52,1.05,05821775-n,0.423,0.273823529,0.529411765,18,2,9,3
+422,campione,N,12,"Poiché alcuni test sono influenzati dal momento in cui viene raccolto il campione, questo deve essere riportato in ogni relazione. ",5.07,1.9,09421425-n,0.385,0.234476191,0.333333333,23,3,7.666666667,5
+419,campione,N,6,Il medico di solito preleva un campione di tessuto per farlo analizzare. ,6.43,1.3,09421425-n,0.385,0.256333333,0.538461539,14,3,4.666666667,3
+420,campione,N,8,Le fiere e altri festival di solito offrono campioni gratuiti per far avvicinare i passanti. ,5.97,1.54,05821775-n,0.423,0.274,0.666666667,16,3,5.333333333,4
+223,campo,N,1,"I campi da calcio, da football e i parchi ( senza alberi ) sono ottime soluzioni. ",6.68,0.74,08570758-n,0.346,0.2330625,0.5,18,1,18,3
+221,campo,N,2,Restringi il campo della tua ricerca includendo informazioni più specifiche. ,2.37,1.6,05996646-n,0.269,0.279636364,0.636363636,12,2,6,4
+225,campo,N,4,"I luoghi ideali includono campi, prati, colline, e il tuo giardino. ",6.51,1.25,09393605-n,0.346,0.269153846,0.636363636,15,1,15,3
+224,campo,N,2,Il loro campo d'azione è limitato dal tipo di legge da essi praticata. ,1.8,1.16,05125377-n,0.269,0.199933333,0.4,16,2,8,5
+222,campo,N,6,"Se verrai mai coinvolto in un campo di battaglia, ringrazierai i tuoi istruttori. ",4.73,1.86,08551628-n,0.269,0.2616,0.461538462,15,2,7.5,4
+226,campo,N,4,"Dopo aver impostato i campi, clicca su crea filtro. ",4.47,1.93,05932891-n,0.346,0.272727273,0.444444444,11,1,11,3
+299,casa,N,12,Prepara una cenetta romantica oppure prendi delle pietanze da asporto tornando a casa. ,6.5,0.78,03259505-n,0.269,0.335142857,0.571428571,15,3,5,4
+302,casa,N,4,Tenere una volpe in casa è illegale in molti paesi. ,6.03,1.38,03259505-n,0.269,0.2423,0.4,11,2,5.5,4
+301,casa,N,15,Il tempo necessario a costruire la tua casa in legno dipende interamente dalla tipologia di casa che stai costruendo. ,6.81,0.68,03544360-n,0.269,0.230789474,0.55,21,4,5.25,4
+300,casa,N,10,Evita di cucinare tanto o di fare altri lavori di casa. ,5.11,1.89,03259505-n,0.269,0.2423,0.545454546,12,3,4,6
+490,causa,N,2,Individua la causa che provoca i crampi alla coscia. ,3.76,1.98,07326557-n,0.308,0.2653,0.5,11,2,5.5,5
+488,causa,N,5,Lo stress può essere la causa dei problemi di acidità di stomaco. ,3.52,1.84,07326557-n,0.308,0.224333333,0.384615385,14,1,14,4
+491,causa,N,2,"Spesso la causa dell'otite è un'infezione batterica, che avviene durante una malattia di base. ",3.85,1.95,07326557-n,0.308,0.226444444,0.470588235,19,2,9.5,4
+489,causa,N,5,L'aumento della temperatura è causa di stress per i pesci rossi. ,3.77,1.86,07326557-n,0.308,0.216076923,0.461538462,14,1,14,3
+492,causa,N,1,Due cause comuni di morte infantile sono la malnutrizione e l'avvelenamento. ,4.3,2.18,07326557-n,0.385,0.25,0.5,13,1,13,3
+493,causa,N,4,C'è sempre una causa di fondo per l'ansia e il panico. ,2.9,1.58,07326557-n,0.308,0.177538462,0.461538462,14,1,14,4
+102,città,N,4,Nella maggior parte delle città troverai piste ciclabili. ,6.2,1.37,08524735-n,0.269,0.282,0.6,11,1,11,3
+101,città,N,8,"Aggiungi i dati su lavoro, istruzione, città in cui vivi, etc. ",5.73,1.48,08524735-n,0.269,0.249833333,0.636363636,15,1,15,5
+29,coccolare,V,6,Anche solo pochi minuti passati a coccolare il tuo animaletto adorato possono sicuramente tirarti su. ,5.7,1.46,01425511-v,0.615,0.314875,0.625,17,3,5.666666667,5
+32,coccolare,V,4,Ogni tanto cerca di coccolare il tuo corpo. ,4.41,1.58,,0.615,0.235,0.5,9,2,4.5,3
+30,coccolare,V,2,"Abbracciare, coccolare o baciare una persona cara allevierà l'ansia e ti farà sentire amato. ",5.94,1.27,01425511-v,0.615,0.3340625,0.666666667,17,7,2.428571429,4
+31,coccolare,V,6,È il momento di smettere di coccolare i figli quando diventano adulti. ,4.97,1.69,,0.615,0.24675,0.5,13,4,3.25,4
+370,colore,N,4,Continua a mescolare i colori finché la pittura non sarà distribuita uniformemente. ,6.46,1.01,03875218-n,0.346,0.278,0.583333333,13,3,4.333333333,4
+372,colore,N,8,Ogni persona può avere gli occhi di diversi colori. ,5.97,1.36,04956594-n,0.346,0.2077,0.444444444,10,1,10,3
+369,colore,N,16,"L'autunno è il periodo migliore per controllare l'albero, quando le foglie cambiano i colori. ",5.8,1.4,04956594-n,0.346,0.233125,0.5,18,3,6,3
+371,colore,N,15,"Puoi utilizzare la scorza del limone come decorazione, se vuoi aggiungere un tocco di colore a un piatto o a un cocktail. ",4.73,1.7,04956594-n,0.346,0.256428571,0.391304348,25,2,12.5,4
+245,colpa,N,5,Preparati a prenderti tutta la colpa e nessun merito. ,2.1,1.45,04669692-n,0.385,0.25,0.4,11,2,5.5,3
+246,colpa,N,3,Non sentirti in colpa per il fatto di goderti la vita. ,1.83,1.12,07536245-n,0.385,0.198666667,0.461538462,14,2,7,5
+33,colpire,V,0,Colpisci il tamburo piegando il polso per muovere la bacchetta su e giù. ,6.52,1.01,01236164-v,0.654,0.313461539,0.615384615,14,3,4.666666667,6
+35,colpire,V,7,L'influenza è un'infezione virale che colpisce il sistema respiratorio. ,3.74,1.95,01236164-v,0.423,0.249916667,0.545454546,12,2,6,3
+34,colpire,V,3,"Il diabete può colpire chiunque: giovani, anziani, maschi o femmine. ",3.89,1.94,01236164-v,0.462,0.257538462,0.6,14,1,14,3
+36,colpire,V,5,I ragazzi sono sempre piacevolmente colpiti dalle ragazze col senso dell'umorismo. ,2.53,1.83,01767949-v,0.462,0.278153846,0.466666667,16,1,16,3
+307,commissione,N,4,Una presentazione davanti alla commissione è solitamente richiesta e il pubblico spesso è consentito. ,6.54,0.71,08324514-n,0.346,0.219785714,0.533333333,16,2,8,4
+305,commissione,N,15,"Prova a indossare abiti carini, eleganti ma semplici, quando ti rechi a fare commissioni. ",4.58,1.7,00731947-n,0.385,0.318066667,0.642857143,17,4,4.25,7
+306,commissione,N,16,"L'aspetto negativo delle agenzie è il costo più alto, poiché bisogna pagare loro una commissione che viene compresa nel prezzo. ",5.23,1.74,13320860-n,0.346,0.224043478,0.47826087,25,4,6.25,6
+308,commissione,N,4,Se stai lavorando su commissione potresti avere la tentazione di vendere sempre a un prezzo superiore. ,3.43,1.81,06529219-n,0.346,0.248882353,0.5625,17,4,4.25,6
+37,concentrare,V,10,"Inizia con dei massaggi di 30 minuti alla gamba, concentrandoti sui muscoli anteriori e posteriori della coscia.",2.9,1.56,00722232-v,0.846,0.293473684,0.409090909,24,1,24,5
+40,concentrare,V,11,"Invece di cercare di sviluppare decine di poteri psichici simultaneamente, concentrati su una abilità alla volta. ",2.57,1.61,00722232-v,0.5,0.274,0.588235294,19,3,6.333333333,5
+38,concentrare,V,4,Chiudi gli occhi e concentrati sul respiro che entra ed esce dal tuo corpo. ,4.52,1.91,00722232-v,0.5,0.2616,0.4375,17,4,4.25,6
+39,concentrare,V,0,"Concentrandoti sugli aspetti positivi, riuscirai a essere più estroverso e osare di più nella vita. ",2.93,1.54,00722232-v,0.846,0.2764375,0.5,20,4,5,4
+536,coppia,N,4,Lo sai che molte coppie sposate si sono conosciute sul posto di lavoro? ,6.26,1.16,07988857-n,0.423,0.247214286,0.428571429,15,2,7.5,4
+539,coppia,N,4,Un dittongo è una coppia di vocali che forma un singolo suono. ,4.58,2.01,07985223-n,0.385,0.243583333,0.5,13,2,6.5,4
+541,coppia,N,5,"Solleva il carrello, una coppia di ruote alla volta, per fargli superare la soglia d'ingresso. ",5.89,1.57,07985223-n,0.385,0.237166667,0.5,21,3,7,5
+540,coppia,N,6,Ogni atomo di azoto presenta una coppia di elettroni e tre elettroni spaiati. ,4.09,1.72,07985223-n,0.385,0.307583333,0.538461539,14,1,14,4
+538,coppia,N,2,Raggruppa a coppie le cifre del numero sotto il segno del radicale. ,4.53,1.87,07985223-n,0.423,0.249833333,0.428571429,15,1,15,5
+537,coppia,N,5,Sperimenta il ballo liscio in coppia oppure azzarda una danza irlandese. ,5.93,1.05,07976936-n,0.385,0.326833333,0.636363636,12,2,6,3
+374,corpo,N,6,"Quando ci prendiamo cura del nostro corpo, miglioriamo il nostro stato emotivo e psicologico. ",6.1,1.18,05216365-n,0.308,0.2538,0.466666667,17,2,8.5,5
+373,corpo,N,1,Il corpo umano è abitudinario e rispetta dei ritmi biologici ben precisi. ,6.2,1.19,05216365-n,0.308,0.281,0.615384615,14,2,7,4
+498,crisi,N,4,"La caffeina può scatenare crisi da astinenza, con sintomi quali mal di testa e difficoltà di concentrazione. ",4.26,1.89,14081375-n,0.346,0.254166667,0.529411765,19,1,19,6
+499,crisi,N,1,Una crisi di identità può verificarsi a qualsiasi età. ,2.26,0.98,14081375-n,0.346,0.2154,0.4,11,1,11,3
+500,crisi,N,5,Non è facile superare una crisi finanziaria o evitare di indebitarsi. ,3.67,1.73,14489113-n,0.346,0.237166667,0.583333333,13,4,3.25,3
+501,crisi,N,14,"Che tu stia organizzando una cena elegante o informale, apparecchiare può metterti in crisi. ",2.39,1.6,14081375-n,0.346,0.290875,0.466666667,17,3,5.666666667,5
+41,cucinare,V,6,"Se la ricetta ti indica di cucinare il pollo non spellato, è quello che devi fare. ",6.4,0.97,01664172-v,0.5,0.228666667,0.4375,18,4,4.5,5
+43,cucinare,V,0,Cucinare è qualcosa che può fare praticamente chiunque. ,6.03,1.27,01665638-v,0.5,0.235111111,0.375,9,3,3,3
+42,cucinare,V,2,"Una volta cucinato l'arrosto, nella pentola rimane un fondo con tutti i sughi della carne. ",6.33,1,01664172-v,0.577,0.255588235,0.444444444,20,2,10,4
+44,cucinare,V,7,"Magari nelle giornate lavorative ti risulta difficile cucinare, ma nei giorni liberi passi più tempo in cucina. ",5.3,1.77,01665638-v,0.5,0.26731579,0.631578947,21,3,7,3
+334,cuore,N,9,Controllare le tue pulsazioni ti permette di monitorare il cuore senza particolari strumenti. ,6,1.77,05388805-n,0.308,0.272,0.538461539,14,3,4.666666667,3
+333,cuore,N,7,"Lei preferisce i doni fatti con il cuore, non qualcosa che compri solo per fare bella figura. ",2.53,1.89,05919263-n,0.308,0.224684211,0.588235294,19,4,4.75,5
+336,cuore,N,11,Usa un coltello per rimuovere la parte centrale e mangia il cuore del carciofo. ,6.35,1.13,08523483-n,0.308,0.238466667,0.533333333,16,3,5.333333333,4
+335,cuore,N,11,"Modifica la postura in cui dormi, se ti svegli nel cuore della notte. ",2.12,1.37,08523483-n,0.308,0.235866667,0.4,17,3,5.666666667,6
+46,danneggiare,V,6,Un eccessivo consumo di alcool può danneggiare i vasi sanguigni della pelle. ,5.47,1.38,00258857-v,0.5,0.287076923,0.538461539,14,1,14,3
+48,danneggiare,V,6,Dovrai sbarazzarti di alcuni pensieri che danneggiano la tua autostima. ,2,1.11,00260470-v,0.577,0.314636364,0.5,11,2,5.5,4
+45,danneggiare,V,9,Un giradischi regolato male o peggio ancora rotto potrebbe danneggiare il disco. ,5.63,1.35,00477941-v,0.5,0.301846154,0.666666667,13,2,6.5,4
+47,danneggiare,V,4,Alcune pagine web possono danneggiare il tuo computer. ,4.18,1.69,00260470-v,0.5,0.264888889,0.5,9,1,9,2
+49,decomporre,V,5,La luce del sole fa decomporre più velocemente le feci ed evita problemi. ,5.38,1.48,00209837-v,0.731,0.274714286,0.642857143,15,3,5,3
+50,decomporre,V,8,"Foglie o altri detriti organici, se lasciati decomporre, possono macchiare il fondo della piscina. ",5.4,1.41,00209837-v,0.731,0.3078125,0.6,18,3,6,3
+142,decorare,V,10,Appendere delle immagini alle pareti è un ottimo modo per decorare e personalizzare uno spazio. ,6.06,1.34,01675963-v,0.577,0.262,0.470588235,18,4,4.5,4
+144,decorare,V,3,"Ricorda che puoi decorare il calendario come preferisci, perciò usa la tua immaginazione! ",5.24,1.97,01675963-v,0.577,0.279466667,0.461538462,15,3,5,4
+141,decorare,V,1,"Potrai decorare la stanza anche con giochi per bambini, quali paperotte di gomma o altri animali. ",5.92,1.29,01675963-v,0.577,0.269333333,0.5625,18,1,18,5
+143,decorare,V,4,"Esistono molte maniere per decorare questo spazio, rendendolo invitante e caldo. ",5.62,1.68,01675963-v,0.577,0.298846154,0.636363636,13,2,6.5,4
+175,deludere,V,1,Non deludere le aspettative delle persone care. ,2.41,1.58,01798936-v,0.577,0.2595,0.625,9,1,9,3
+177,deludere,V,4,"I tuoi amici potrebbero deluderti non apprezzando l'idea, ma sii comprensivo e lavora insieme a loro. ",2.52,1.31,01798936-v,0.654,0.263157895,0.444444444,20,4,5,4
+176,deludere,V,11,"Pensa cosa c'è sotto ai tuoi timori, che sia deludere i tuoi genitori o non avere la vita che desideri. ",2.65,1.44,01798936-v,0.577,0.223428571,0.454545455,24,5,4.8,7
+178,deludere,V,8,"Se soffri per causa sua, se ti delude ripetutamente, considera di allontanarti da quella storia d'amore. ",2.78,1.46,01798936-v,0.577,0.273764706,0.444444444,21,4,5.25,4
+303,demonio,N,8,Ai concerti cerca di fare il simbolo del demonio con la mano per guadagnare punti. ,3.23,1.9,09542339-n,0.538,0.21875,0.470588235,18,3,6,5
+304,demonio,N,14,"Nonostante il nome, il satanismo ha davvero poco a che fare con il demonio descritto nella bibbia. ",3.03,2.2,09542339-n,0.538,0.244235294,0.388888889,20,2,10,4
+173,detestare,V,4,"Generalmente, i dipendenti detestano i meeting eccessivamente lunghi, e a ragione. ",2.47,1.38,01774426-v,0.654,0.2725,0.636363636,14,1,14,3
+174,detestare,V,9,"Se lei ti piace e vuoi che smetta di detestarti, devi scusarti. ",2.3,1.32,01774426-v,0.923,0.291142857,0.5,14,3,4.666666667,5
+179,disprezzare,V,8,L'eccesso di sicurezza è un modo di disprezzare le doti e le abilità degli altri. ,2.85,1.38,01774799-v,0.577,0.210266667,0.352941177,18,2,9,5
+180,disprezzare,V,7,"Studia ogni stile di lotta e non disprezzare gli altri stili, perché ciò ti indebolirebbe. ",2.56,1.5,01774799-v,0.577,0.257941177,0.533333333,17,3,5.666666667,3
+149,distruggere,V,4,Lo stress cronico può distruggere le cellule cerebrali e danneggiare l'ippocampo. ,5.11,2,01564144-v,0.462,0.313615385,0.583333333,13,2,6.5,3
+152,distruggere,V,4,"Puoi liberarti delle formiche distruggendo il loro nido, o mettendo delle esche per gli esemplari esploratori. ",6.32,0.93,01656458-v,0.538,0.307647059,0.421052632,21,3,7,3
+150,distruggere,V,1,"Per distruggere questi documenti, non è sufficiente gettarli nella spazzatura. ",5.86,1.24,01564144-v,0.462,0.243666667,0.5,14,3,4.666666667,3
+153,distruggere,V,11,"Allo stesso tempo, un pettegolezzo può danneggiare una persona, distruggerne la reputazione. ",3.11,1.57,,0.692,0.269142857,0.538461539,16,2,8,3
+151,distruggere,V,0,Distruggi il nido di vespe la notte. ,5.93,1.23,01656458-v,0.654,0.264375,0.571428571,8,1,8,4
+154,distruggere,V,3,Fare il bullo distrugge la propria reputazione. ,2.3,1.34,,0.5,0.27875,0.571428571,8,2,4,3
+159,disturbare,V,12,Le radici delle piante sono piuttosto superficiali perciò quando scavi fallo senza disturbare o danneggiare le radici. ,4.07,1.46,00259755-v,0.538,0.3101875,0.5,19,4,4.75,5
+158,disturbare,V,4,Avere lo stomaco pieno disturba il riposo. ,4.07,1.53,02507736-v,0.577,0.283625,0.714285714,8,2,4,3
+160,disturbare,V,10,Spazzola delicatamente la superficie senza muovere la pianta stessa o disturbare le sue radici. ,3.63,1.6,00259755-v,0.538,0.315857143,0.571428571,15,3,5,3
+156,disturbare,V,9,"Gli scossoni, i dossi e le curve possono disturbare il sonno e farti sentire stanco. ",3.7,1.81,02507736-v,0.538,0.288375,0.533333333,17,2,8.5,4
+155,disturbare,V,3,"La caffeina può disturbare il sonno, causando insonnia, o aggravare preesistenti problemi di sonno. ",3.97,1.88,02507736-v,0.538,0.289533333,0.642857143,17,3,5.666666667,6
+157,disturbare,V,2,"Alcune pietanze disturbano il riposo notturno, mentre altre possono promuoverlo. ",4,1.95,02507736-v,0.615,0.31725,0.454545455,13,2,6.5,2
+72,dolore,N,2,"Se il dolore alle gambe è cronico, è opportuno farti visitare da un professionista. ",5.88,1.45,05724694-n,0.346,0.240933333,0.466666667,17,4,4.25,4
+71,dolore,N,15,Che tipo di persona andrebbe alla ricerca di ogni piccolo difetto altrui solo per provocare dolore? ,2.88,1.75,07494363-n,0.346,0.2571875,0.529411765,18,2,9,3
+73,dolore,N,3,Valuta se il dolore toracico può essere dovuto a un attacco di cuore. ,5.87,1.14,14322699-n,0.346,0.228071429,0.461538462,14,2,7,4
+74,dolore,N,5,Certe convinzioni possono anche causare dolore e sofferenza. ,3.73,1.6,07494363-n,0.346,0.277888889,0.625,9,1,9,3
+75,donna,N,8,Un sari è un abito tradizionale indossato dalle donne indiane. ,6.37,0.93,09619168-n,0.308,0.327,0.545454546,12,2,6,3
+76,donna,N,7,Scegli un fiore in armonia con la donna che lo indosserà e col suo abito. ,5.7,1.47,09619168-n,0.308,0.240375,0.375,17,2,8.5,6
+77,donna,N,1,Molte donne si sentono esauste nelle prime tappe della gravidanza. ,6.33,1.18,10787470-n,0.308,0.300727273,0.5,13,2,6.5,4
+78,donna,N,1,Una donna ha un sacco di opzioni quando deve acquistare indumenti per andare in palestra. ,5.67,1.78,09619168-n,0.308,0.2404375,0.533333333,16,3,5.333333333,4
+126,dormire,V,7,Se ceni tardi e vai subito a dormire non riuscirai a prendere sonno. ,5.37,1.6,00014742-v,0.423,0.304769231,0.692307692,14,5,2.8,4
+128,dormire,V,4,Riduci le possibilità di dormire in posizioni che aggravano il mal di schiena. ,5.97,1.22,00014742-v,0.423,0.266153846,0.538461539,14,3,4.666666667,7
+127,dormire,V,2,Evita di dormire in posizione prona dopo il primo trimestre. ,6,1.33,00014742-v,0.423,0.265727273,0.6,11,2,5.5,3
+125,dormire,V,3,I tuoi genitori dormiranno sonni tranquilli sapendo che nessuno potrà ricorrere alle vie legali. ,3.65,1.74,,0.731,0.343666667,0.533333333,16,3,5.333333333,4
+202,elemento,N,10,Il migliore fissaggio prevede che i supporti siano agganciati ad elementi strutturali. ,5.77,1.43,03081021-n,0.308,0.284,0.583333333,13,2,6.5,3
+205,elemento,N,3,"Puoi usare degli elementi fisici, come le costruzioni per bambini, per analizzare le strutture complicate. ",5.73,1.53,03081021-n,0.308,0.261533333,0.5,19,2,9.5,4
+203,elemento,N,3,"Se hai molti elementi in comune con una persona, sfrutta questi punti di incontro. ",2.93,1.84,05868954-n,0.308,0.2068125,0.5,16,2,8,5
+206,elemento,N,3,Alcune sostanze contengono elementi chimici difficili da rimuovere se non ricorri ad altri prodotti chimici. ,5.52,1.85,14622893-n,0.308,0.300133333,0.733333333,16,3,5.333333333,4
+201,elemento,N,6,La croce di legno è l'elemento strutturale principale della base del cesto. ,5.63,1.79,03081021-n,0.346,0.219785714,0.466666667,16,1,16,3
+204,elemento,N,4,L'eleganza è un elemento che differenzia lo stile americano da quello europeo. ,2.73,1.72,07327805-n,0.346,0.233692308,0.461538462,14,2,7,4
+547,famiglia,N,5,Avere un buon supporto da famiglia e amici è fondamentale. ,5.82,1.55,07970406-n,0.308,0.202727273,0.6,11,2,5.5,4
+548,famiglia,N,4,La maggior parte delle famiglie nelle aree urbane partecipano ad una raccolta differenziata. ,6.09,1.31,08078020-n,0.346,0.25,0.533333333,16,1,16,3
+546,famiglia,N,6,Chiedi a tutti i componenti della famiglia di impegnarsi nelle faccende domestiche. ,5.54,1.63,07970406-n,0.308,0.257384615,0.4,16,2,8,4
+545,famiglia,N,4,Le capesante appartengono alla famiglia delle ostriche e sono molto popolari in diverse culture. ,2.91,1.67,08107499-n,0.308,0.2692,0.4375,17,2,8.5,3
+85,fase,N,2,"Durante la fase iniziale dell'astinenza, probabilmente sperimenterai un forte desiderio di farti. ",3.33,2.06,13939892-n,0.308,0.271866667,0.571428571,16,1,16,3
+86,fase,N,6,Una versione per linux è in fase di sviluppo. ,2.9,1.71,13939892-n,0.308,0.1807,0.333333333,10,1,10,3
+227,festa,N,4,"La torta a una festa di compleanno va bene, ma torte e gelati tutti i giorni no. ",5.43,1.45,07447641-n,0.346,0.228352941,0.529411765,19,3,6.333333333,4
+230,festa,N,2,"Durante la festa, assicurati di parlare con tutti. ",5.63,1.43,07447641-n,0.346,0.1807,0.375,10,2,5,4
+228,festa,N,5,Se sei ospite a una festa permettiti un piccolo strappo alla dieta. ,4.93,1.84,07447641-n,0.346,0.289923077,0.428571429,15,1,15,3
+231,festa,N,2,Organizza una festa in casa invece di andare per bar con gli amici. ,5.22,1.72,07447641-n,0.346,0.206,0.538461539,14,2,7,3
+229,festa,N,2,Organizza la festa in luoghi destinati all'intrattenimento di adolescenti quando gli invitati hanno meno di 18 anni.,5.58,1.43,07447641-n,0.346,0.251117647,0.52631579,20,3,6.666666667,6
+232,festa,N,3,"Ideale per le feste in costume, il cappello è facile da realizzare completamente in feltro. ",5.26,1.59,07447641-n,0.423,0.24275,0.533333333,17,2,8.5,4
+359,film,N,13,"Se hai la pelle unta,un sapone specifico potrebbe aiutarti a produrre meno film lipidico, riducendo perciò il problema. ",5.77,1.53,,0.269,0.3019,0.631578947,21,4,5.25,3
+360,film,N,3,"Anche noleggiare qualche film, preparare i popcorn e trascorrere una serata tranquilla può essere carino. ",6.31,1.05,06613686-n,0.269,0.280529412,0.6,17,4,4.25,4
+168,fiorire,V,4,La pianta continua a fiorire dalla primavera per tutta l'estate fino a inizio autunno. ,6.17,1.12,00294245-v,0.538,0.248666667,0.5,17,2,8.5,4
+170,fiorire,V,3,Una persona che fiorisce tardi è una pensatrice profonda e meno frettolosa rispetto alla massa. ,1.87,0.86,02342800-v,0.615,0.284533333,0.5,17,2,8.5,4
+169,fiorire,V,6,Per piantare le rose e farle fiorire nella loro maestosità attieniti ai consigli di un esperto. ,6.04,1.13,00294245-v,0.538,0.298647059,0.421052632,20,3,6.666666667,5
+171,fiorire,V,10,"Non appena hai un'idea ( e le persone che fioriscono tardi ne hanno tante ), scrivila. ",2.3,1.41,02342800-v,0.615,0.230684211,0.533333333,19,3,6.333333333,4
+167,fiorire,V,5,La maggior parte delle azalee fiorirà la primavera successiva. ,6.03,1.14,00294245-v,0.692,0.316111111,0.6,11,1,11,3
+172,fiorire,V,7,Impara a capire che le clematidi che fioriscono tardi dovrebbero essere potate a fondo. ,5.8,1.45,00294245-v,0.615,0.340230769,0.428571429,15,4,3.75,5
+145,flirtare,V,7,Non è facile rompere il ghiaccio e flirtare con una ragazza che non conosci. ,4.33,2.12,01037910-v,0.692,0.236214286,0.571428571,15,4,3.75,5
+147,flirtare,V,4,"Se desideri imparare come flirtare con una ragazza sin da subito, segui questi semplici passi. ",3.79,2.07,01037910-v,0.692,0.280588235,0.6,17,4,4.25,6
+146,flirtare,V,4,Un altro modo per flirtare con una ragazza è non prenderti troppo sul serio. ,4.54,1.38,01037910-v,0.692,0.235933333,0.5,17,2,8.5,4
+148,flirtare,V,6,Ci sono molte ragioni per voler flirtare con il proprio capo. ,4.74,1.7,01037910-v,0.692,0.237166667,0.363636364,12,2,6,3
+378,genere,N,1,"Alcuni generi alimentari sono difficili da digerire risultando, infine, danno si per il corpo invece che nutrienti. ",5,1.74,03076708-n,0.423,0.254947368,0.588235294,20,4,5,4
+377,genere,N,1,"Nessun genere musicale dovrebbe essere ignorato, nemmeno il country. ",3,1.95,05845332-n,0.308,0.262272727,0.555555556,11,1,11,2
+82,gente,N,2,Pensa alla gente che conosci molto bene e mettila a confronto con il nuovo arrivato. ,5.47,1.57,07942152-n,0.308,0.2355625,0.5625,17,3,5.666666667,4
+83,gente,N,14,"Quando eri più giovane, probabilmente ti piacevano i luoghi chiassosi e pieni di gente. ",5.83,1.26,07947255-n,0.308,0.26925,0.642857143,16,1,16,5
+81,gente,N,8,Parla del più e del meno con la gente che hai conosciuto da poco. ,5.59,1.67,07942152-n,0.308,0.175714286,0.3125,17,1,17,4
+84,gente,N,8,Mostrati al meglio e cerca la compagnia della gente più interessante. ,4.96,1.68,07942152-n,0.308,0.217833333,0.538461539,14,2,7,5
+191,gioco,N,11,"Non pensare solo ai giochi da tavolo, considera anche i giochi fondati sul brainstorming. ",5.97,1.19,03964744-n,0.346,0.238466667,0.625,18,3,6,5
+193,gioco,N,4,"Non è necessario nessun gioco di prestigio, ma pura e semplice matematica. ",4.76,1.94,,0.308,0.208857143,0.583333333,14,1,14,5
+192,gioco,N,10,Potresti usare un'applicazione dello smartphone per giocare a un gioco da tavolo col tuo amico. ,5.6,1.4,03964744-n,0.308,0.267058824,0.388888889,19,2,9.5,4
+195,gioco,N,5,Spettegolando fai il suo stesso gioco e non rafforzi la tua autostima. ,2.2,0.99,,0.308,0.275076923,0.583333333,13,3,4.333333333,3
+194,gioco,N,4,"Metti varie tipologie di giochi nella gabbia, così il tuo amico ha qualcosa con cui distrarsi. ",6.33,1.06,03964744-n,0.346,0.245777778,0.444444444,20,3,6.666666667,4
+196,gioco,N,1,I giochi violenti fanno istantaneamente aumentare il tasso di adrenalina. ,4.93,1.74,00430606-n,0.346,0.286727273,0.7,11,2,5.5,4
+405,giovane,N,5,"In passato, solo i giovani e gli studenti cercavano lavori estivi, ma la situazione ora è cambiata. ",5.3,1.68,,0.308,0.212526316,0.588235294,20,2,10,3
+406,giovane,N,6,Quello dei romanzi d'amore per giovani è un mercato in espansione. ,4.83,1.68,,0.308,0.201230769,0.384615385,14,1,14,5
+135,guarire,V,6,L'aria consentirà alla pelle di guarire in maniera più rapida. ,4.59,2.08,00270561-v,0.5,0.255363636,0.583333333,13,2,6.5,4
+134,guarire,V,9,Per promuovere la guarigione aspetta che il tempo faccia guarire le ferite. ,3.56,1.99,,0.5,0.239538462,0.583333333,13,4,3.25,4
+133,guarire,V,4,Lascia che il tempo guarisca le tue ferite. ,2.97,1.94,,0.692,0.260666667,0.625,9,2,4.5,3
+136,guarire,V,14,Devi imparare come applicare il ghiaccio nel modo corretto e assicurarti che la ferita guarisca velocemente. ,5.39,1.59,00270561-v,0.692,0.289647059,0.5,19,3,6.333333333,4
+295,guerra,N,21,"Se non puoi raccogliere soldi, aggiungi la tua voce a quelle che lottano per porre fine alla povertà o alla guerra. ",5.5,1.56,00973077-n,0.269,0.2325,0.434782609,25,4,6.25,6
+296,guerra,N,11,"Quando i ragazzi assistono o vivono in un continuo stato di guerra con i genitori, possono nascere problemi comportamentali. ",2.65,1.52,13982357-n,0.269,0.23075,0.52631579,21,3,7,5
+294,guerra,N,6,"Puoi anche ideare un grido di guerra, come “ per l'esercito della libertà! “, o qualcosa del genere. ",3.73,1.87,00973077-n,0.269,0.206578947,0.368421053,24,1,24,5
+293,guerra,N,10,Solo dopo aver migliorato la tua autostima potrai vincere la guerra contro il disturbo da alimentazione incontrollata. ,3.33,1.81,00801125-n,0.269,0.298588235,0.470588235,18,2,9,3
+65,idea,N,6,"Quando credi di avere annotato sufficienti idee, leggile due volte. ",2.13,1.59,05833840-n,0.346,0.30125,0.6,12,2,6,5
+63,idea,N,3,Devi avere le idee chiare sulla politica. ,1.67,0.96,05837850-n,0.346,0.249875,0.5,9,1,9,3
+66,idea,N,10,Ho bisogno di un quarto d'ora per schiarirmi le idee prima di continuare. ,2,1.52,05833840-n,0.346,0.239,0.533333333,16,3,5.333333333,4
+64,idea,N,5,Non aver paura di cambiare idea. ,1.85,1.35,05837850-n,0.308,0.192285714,0.833333333,7,2,3.5,3
+129,immaginare,V,3,Forse tendi a immaginare il peggior scenario possibile quando analizzi alcuni decisioni e incarichi. ,2.39,1.52,01636397-v,0.423,0.3102,0.642857143,15,3,5,4
+131,immaginare,V,0,Immagina degli scenari divertenti o felici. ,2.45,1.97,01636397-v,0.5,0.307857143,0.571428571,8,1,8,4
+130,immaginare,V,7,"Per aumentare il grado di concentrazione, immagina uno scenario in cui devi avere una concentrazione assoluta. ",2.58,1.55,01636397-v,0.5,0.219470588,0.5,18,3,6,4
+132,immaginare,V,9,"Se ti ama davvero, non riesce assolutamente a immaginare un futuro senza di te. ",2.31,1.72,01636397-v,0.423,0.217071429,0.5,16,3,5.333333333,4
+140,incoraggiare,V,7,Per creare un ambiente più positivo devi incoraggiare e sostenere le persone con cui lavori. ,3.17,1.49,00771341-v,0.5,0.221125,0.533333333,16,3,5.333333333,5
+139,incoraggiare,V,5,Dovrebbe essere un premio che incoraggia le persone a condividere l'informazione con gli amici. ,2.43,1.19,01818235-v,0.538,0.220466667,0.4,16,3,5.333333333,5
+137,incoraggiare,V,7,Lunedì senza carne è una campagna che incoraggia le persone a rinunciare alla carne un giorno a settimana. ,3.2,1.92,02554922-v,0.538,0.223941177,0.473684211,20,3,6.666666667,5
+138,incoraggiare,V,3,Un modo per incoraggiare il dialogo consiste nell'aumentare l'intimità. ,3.37,1.67,00771341-v,0.5,0.234,0.5,13,3,4.333333333,3
+164,infastidire,V,9,Evita che la tua attrezzatura galleggi liberamente andando a infastidire gli altri surfisti. ,3.89,1.5,02507736-v,0.615,0.329642857,0.615384615,14,3,4.666666667,4
+162,infastidire,V,3,Rispondere al telefono infastidirà il professore perché gli farà capire che non hai rispetto per le regole. ,4.15,1.61,01787955-v,0.846,0.243611111,0.555555556,19,5,3.8,5
+165,infastidire,V,1,Non infastidire e non molestare gli squali. ,4.39,1.82,02507736-v,0.615,0.296571429,0.714285714,8,2,4,3
+166,infastidire,V,9,"Non sbandierare il tuo desiderio di competizione, potresti infastidire gli altri corridori, che potrebbero sabotarti per non farti vincere. ",3.61,1.44,01787955-v,0.615,0.30775,0.578947368,22,5,4.4,5
+161,infastidire,V,2,Puoi anche infastidire il professore leggendo molto in anticipo un capitolo e intervenire al riguardo. ,4.14,1.61,01787955-v,0.615,0.2548125,0.5625,17,3,5.666666667,3
+163,infastidire,V,5,"Evita di sfogarti se sei infastidita o turbata, e affronta la situazione con calma e razionalità. ",4.03,1.92,01787955-v,0.615,0.280470588,0.5,18,4,4.5,5
+249,infornare,V,11,"Se il tuo forno è grande abbastanza per due teglie, inforna entrambe le teglie di cupcake. ",5.9,1.58,,0.769,0.278294118,0.4375,18,2,9,3
+250,infornare,V,3,A fine cottura inforna la carne ed accendi il grill per rendere la pelle dorata e ben croccante. ,6.13,1.31,,0.769,0.314055556,0.611111111,19,3,6.333333333,6
+252,inquinare,V,16,Verso la fine del processo di distillazione si formano elementi chimici di scarto che non devono inquinare la vodka. ,4.87,1.46,00492706-v,0.577,0.271388889,0.5,21,2,10.5,4
+254,inquinare,V,9,"Se hai delle prove fisiche, non danneggiarle o inquinarle: consegnale al tuo avvocato o portale in tribunale. ",4.33,1.83,,0.885,0.311789474,0.476190476,24,4,6,5
+251,inquinare,V,12,Spesso i passaggi necessari a rendere un oggetto disponibile richiedono mezzi che inquinano l'aria. ,4.78,1.45,00492706-v,0.615,0.271666667,0.666666667,16,3,5.333333333,5
+253,inquinare,V,12,Quando si sta insieme da parecchio tempo il rapporto rischia di essere inquinato dalla monotonia. ,1.96,1.13,,0.577,0.24275,0.4375,17,3,5.666666667,4
+327,interesse,N,19,Se moltiplichi il tasso di interesse per 100 ottieni la porzione di denaro che paghi a ogni rata come interesse sul capitale.,4.39,2.25,13318584-n,0.308,0.260095238,0.391304348,24,1,24,6
+328,interesse,N,11,"Suonando la chitarra, sarai spinto a coltivare maggiormente il tuo interesse per la musica. ",2.58,1.59,05682950-n,0.308,0.2616,0.5,16,3,5.333333333,4
+257,investire,V,8,"Se la tua macchina è piccola, potresti investire in barre portapacchi o portapacchi veri e propri. ",3.27,1.74,,0.423,0.264133333,0.5,18,3,6,6
+259,investire,V,5,Ricorda che l'industria cinematografica investe molto impegno per rendere i suoi film credibili. ,2.8,1.58,02271137-v,0.462,0.2564,0.571428571,15,3,5,4
+258,investire,V,15,Può capitare di dover eseguire la manovra di rianimazione dopo che l'animale è stato investito da un veicolo. ,5.81,1.52,00106960-v,0.462,0.240842105,0.421052632,20,3,6.666666667,4
+256,investire,V,3,Decidi se vuoi investire in un essiccatore per tenere la cucina ben fornita per tutto un anno. ,3.62,1.7,,0.423,0.2764375,0.470588235,18,4,4.5,5
+255,investire,V,3,Decidi quanto denaro investire nella tua rivista online. ,3.87,2.15,02271137-v,0.423,0.316444444,0.555555556,10,2,5,3
+260,investire,V,6,Comprare le penny stock spesso significa investire in aziende piccole ed emergenti. ,3.6,1.81,02271137-v,0.423,0.313538462,0.75,13,3,4.333333333,5
+262,irritare,V,7,"Evita di usare il sapone, perché irriterà e seccherà la cute. ",5.78,1.37,,0.846,0.301615385,0.545454546,13,4,3.25,4
+261,irritare,V,9,Pensa all'ultima volta in cui qualcuno ti ha irritato e ti ha fatto esplodere. ,3.44,1.85,01787955-v,0.577,0.241857143,0.375,17,4,4.25,4
+263,ispirare,V,1,Lasciati ispirare dall'alta moda. ,2.88,1.63,01759326-v,0.538,0.3205,0.666666667,7,2,3.5,3
+264,ispirare,V,4,Il tuo comportamento deve ispirare serenità. ,2.73,1.84,01812720-v,0.538,0.274714286,0.5,7,1,7,2
+265,lavare,V,7,Un trattamento molto efficace è quello di lavare i capelli con l'olio d'oliva. ,6.77,0.55,00036362-v,0.538,0.2211875,0.466666667,16,2,8,4
+266,lavare,V,6,"Usa l'aspirapolvere, spolvera e lava tutta la casa. ",6.43,1.12,01535246-v,0.538,0.269090909,0.555555556,11,3,3.666666667,3
+268,lenire,V,2,"Il calore lenisce e riduce il dolore muscolare, migliorando la circolazione del sangue nella zona colpita. ",4.6,1.87,00063916-v,0.692,0.280529412,0.555555556,20,3,6.666666667,4
+267,lenire,V,16,Assicurati di essere pronto ad iniziare una relazione e non correre in braccio a qualcuno per lenire il tuo malessere del momento. ,3.3,1.91,00064095-v,0.577,0.227434783,0.434782609,24,5,4.8,7
+207,lettera,N,2,Anche la lettera di presentazione dovrebbe essere convertita in un documento di solo testo. ,6.07,1.53,06624161-n,0.308,0.197857143,0.5,15,1,15,3
+209,lettera,N,1,Una lettera di intenti viene inviata da un potenziale acquirente nelle prime fasi della trattativa. ,5.8,1.56,06624161-n,0.308,0.254875,0.470588235,18,1,18,4
+208,lettera,N,1,Una lettera di interesse deve dimostrare il tuo interesse per un determinato argomento o tema. ,6.37,0.84,06624161-n,0.308,0.200066667,0.466666667,16,1,16,4
+210,lettera,N,4,Prova a scrivere la lettera m e traccia due linee verticali vicine e parallele. ,6,1.24,06828818-n,0.308,0.274714286,0.642857143,15,2,7.5,8
+389,libro,N,5,"Quando studi, leggi il libro di testo e gli appunti della lezione. ",6.52,1.09,02870092-n,0.308,0.184142857,0.461538462,15,1,15,4
+394,libro,N,5,Quasi tutte le biblioteche offrono libri elettronici da noleggiare per un certo periodo di tempo. ,6.06,1.41,02870092-n,0.346,0.2428125,0.6,16,2,8,4
+390,libro,N,1,"I libri, le riviste e i giornali spesso si accumulano in casa, soprattutto se ne acquisti tanti. ",6.54,1.2,02870092-n,0.346,0.226444444,0.529411765,20,1,20,3
+392,libro,N,5,"La critica esprime giudizi su libri, film e altre opere creative. ",6,1.41,06410904-n,0.346,0.239538462,0.727272727,13,1,13,4
+393,libro,N,4,Scrivere e pubblicare un libro non è un'impresa facile. ,5.87,1.53,06410904-n,0.308,0.199272727,0.6,11,3,3.666666667,4
+391,libro,N,8,"Come si suol dire, non giudicare un libro dalla copertina. ",5.1,1.77,06410904-n,0.308,0.221166667,0.545454546,13,2,6.5,4
+379,luce,N,3,Troppa esposizione alla luce del sole può essere dannosa per la pelle. ,6.53,0.73,11485367-n,0.308,0.239692308,0.357142857,15,1,15,4
+382,luce,N,8,Durante l'inverno ci sono meno ore di luce e si trascorre più tempo al chiuso. ,5.7,1.34,11485367-n,0.308,0.208117647,0.529411765,18,2,9,3
+380,luce,N,8,"Se non hai bisogno di ulteriori fonti di luce per lavorare, spegnile. ",5.56,1.74,03665366-n,0.308,0.251615385,0.666666667,14,2,7,4
+381,luce,N,5,Il bianco brillante riflette la luce invece di assorbirla. ,5.11,1.89,11473954-n,0.308,0.2731,0.6,11,2,5.5,2
+399,madre,N,1,Le madri coccodrillo difendono i propri cuccioli senza paura. ,6.21,1.19,01323493-n,0.462,0.3192,0.444444444,10,1,10,3
+402,madre,N,3,Per diventare una madre surrogata servono grandi doti di generosità. ,5.61,1.55,01323493-n,0.346,0.286727273,0.7,11,2,5.5,3
+332,malattia,N,4,"L'eczema è una malattia della pelle che può provocare arrossamento, abrasioni e lesioni cutanee. ",6.1,1.3,14070360-n,0.346,0.2908125,0.5,18,2,9,4
+331,malattia,N,4,"La depressione è una malattia, non qualcosa di cui vergognarti perché non pensi di avere motivo per essere triste. ",4.77,1.89,14061805-n,0.346,0.218631579,0.45,22,5,4.4,6
+269,mangiare,V,10,Questa pianta ottiene la maggior parte delle sue sostanze nutritive mangiando insetti e ragni. ,6.27,0.87,01168468-v,0.538,0.302466667,0.6,16,2,8,4
+271,mangiare,V,5,Riduci i carboidrati raffinati e mangia più proteine magre e verdure. ,6.43,1.07,01168468-v,0.462,0.363636364,0.727272727,12,2,6,5
+270,mangiare,V,2,Smetti di mangiarti le unghie. ,6.67,0.88,,0.731,0.326833333,0.5,7,2,3.5,3
+272,mangiare,V,7,Compra il maglione che la tua amica mangiava con gli occhi al centro commerciale. ,2.17,1.26,,0.577,0.2538,0.4,16,1,16,3
+311,mano,N,2,Lavati le mani con acqua calda e sapone dopo aver toccato la lesione. ,6.61,1,05564590-n,0.346,0.280142857,0.538461539,14,3,4.666666667,4
+313,mano,N,4,Deve essere compilato a mano nell'ufficio dove depositerai la richiesta oppure online. ,6,1.12,05564590-n,0.308,0.293076923,0.5,15,2,7.5,5
+314,mano,N,3,Stendi una prima mano di pittura. ,4.69,2.13,03650173-n,0.308,0.241714286,0.666666667,7,1,7,3
+312,mano,N,7,Tieni un secchio capiente a portata di mano. ,3.96,2.01,05564590-n,0.308,0.277888889,0.625,9,2,4.5,5
+273,manomettere,V,11,I livelli di photoshop permettono di modificare le tue foto senza manomettere la versione originale. ,4.53,1.68,01346430-v,0.654,0.289666667,0.466666667,16,3,5.333333333,4
+274,manomettere,V,18,"Il poligrafo è visto come fonte d'ansia, persino da innocenti che dovrebbero superarlo senza imbrogliare o manomettere i risultati. ",4.27,1.7,01346430-v,0.654,0.286681818,0.476190476,23,4,5.75,6
+275,masturbare,V,8,Non mettere tuo figlio in punizione perché si masturba. ,6.33,1.15,01430633-v,0.692,0.2616,0.555555556,10,2,5,2
+276,masturbare,V,6,Organizza un programma per evitare di masturbarti in certi momenti della giornata. ,6.1,1.18,01430633-v,0.808,0.245538462,0.461538462,14,2,7,5
+407,mercato,N,5,"Investire denaro, specialmente nel mercato azionario, implica dei rischi. ",2.63,1.9,01097292-n,0.269,0.276181818,0.636363636,14,2,7,4
+411,mercato,N,12,La regola è non comprare mai le cose al loro prezzo di mercato. ,2.57,1.38,01097292-n,0.269,0.181214286,0.5,15,1,15,4
+409,mercato,N,3,L'andamento del mercato azionario nel lungo periodo è sempre in crescendo. ,2.89,1.47,01097292-n,0.269,0.224923077,0.5,15,1,15,3
+408,mercato,N,5,Molti dei libri disponibili sul mercato hanno prezzi abbordabili. ,3.74,2.08,01097292-n,0.269,0.269,0.545454546,12,1,12,4
+410,mercato,N,3,Le indagini di mercato sono fondamentali per fare una ricerca di marketing. ,2.77,1.61,01097292-n,0.269,0.1961,0.5,13,2,6.5,4
+412,mercato,N,11,È necessario conoscere a fondo il proprio settore e il mercato per determinare lo stipendio più appropriato. ,2.69,1.37,01097292-n,0.269,0.219470588,0.529411765,19,2,9.5,5
+198,mese,N,6,"Anziché alzare il riscaldamento durante i mesi invernali, copriti di più. ",4.3,1.95,15209413-n,0.269,0.269230769,0.545454546,13,1,13,3
+200,mese,N,10,Cancellando la sottoscrizione al servizio entro la fine del primo mese non si dovrà pagare nessun costo. ,3.8,1.88,15206296-n,0.308,0.242058824,0.473684211,20,2,10,5
+197,mese,N,9,Dovresti concimare le tue piante meno frequentemente durante i mesi autunnali e invernali. ,4.47,2,15209413-n,0.269,0.326928571,0.538461539,14,1,14,4
+199,mese,N,2,"Se ogni mese puoi pagare una quota di capitale, alla fine avrai speso meno in interessi. ",4.23,1.92,15206296-n,0.308,0.233,0.470588235,19,2,9.5,4
+279,migliorare,V,6,Prepara una soluzione di risciacquo per migliorare la pelle e il pelo del tuo amico fedele. ,4.4,1.79,00205885-v,0.385,0.244352941,0.470588235,18,2,9,5
+280,migliorare,V,13,"Se la tua televisione non è in alta definizione, la nitidezza può migliorare la qualità dell'immagine. ",4.63,1.61,00205885-v,0.385,0.217176471,0.444444444,20,2,10,3
+277,migliorare,V,7,Lo scrub rimuove le cellule morte e migliora la circolazione di tutto il corpo. ,4.32,2.04,00205885-v,0.5,0.251266667,0.5,15,2,7.5,4
+278,migliorare,V,4,Un po' di cioccolato migliorerà il tuo umore e ti renderà più felice. ,3.82,1.87,00205885-v,0.615,0.257384615,0.538461539,14,2,7,3
+530,modo,N,1,Il modo più efficace per fare il pieno di vitamina d è esporsi al sole. ,3.08,1.87,,0.231,0.223066667,0.529411765,18,2,9,5
+532,modo,N,5,Cerca di capire il suo modo di pensare. ,2.12,1.28,04910135-n,0.231,0.177875,0.5,9,3,3,4
+531,modo,N,10,I barattoli di vetro consentono di conservare gli alimenti in modo igienico e sicuro. ,3.23,2.1,00172710-n,0.231,0.269142857,0.571428571,15,2,7.5,5
+533,modo,N,2,Trova un modo per passare il tempo. ,2.9,1.54,,0.231,0.1635,0.571428571,8,2,4,4
+117,moglie,N,3,"Lascia che tua moglie senta quanto la ami, illuminandoti quando la vedi. ",6,1.29,10780632-n,0.346,0.311272727,0.538461539,15,3,5,4
+120,moglie,N,6,"Non è semplice essere una buona moglie, anche se hai un marito praticamente perfetto. ",4.93,1.68,10780632-n,0.346,0.2044375,0.642857143,16,3,5.333333333,5
+119,moglie,N,3,Far soffrire tua moglie per valutare la sua reazione è una pessima idea. ,6.37,1.35,10780632-n,0.346,0.247285714,0.461538462,14,3,4.666666667,4
+118,moglie,N,8,Non sprecare tempo nel tentativo di diventare una moglie migliore. ,4.27,2.05,10780632-n,0.346,0.230727273,0.636363636,12,2,6,4
+60,momento,N,9,"Porta l'acqua ad ebollizione e, da quel momento, aspetta circa 40-50 minuti.",4.15,2.29,05046009-n,0.269,0.226176471,0.5,18,2,9,4
+59,momento,N,4,Impara a superare i momenti di crisi e ad apprezzarti per quello che sei. ,2.76,1.71,,0.346,0.223,0.357142857,15,2,7.5,5
+61,momento,N,9,Le insalate si conservano meglio se condite all'ultimo momento e non prima di metterle in frigo. ,2.71,1.72,15244650-n,0.269,0.245611111,0.52631579,20,3,6.666666667,3
+62,momento,N,5,Prenditi una pausa dai tuoi momenti di introspezione e concentra la tua attenzione sugli altri. ,2.69,1.71,,0.346,0.278875,0.352941177,18,2,9,4
+114,morte,N,11,"Se non ti trovi in una situazione di vita o di morte, mantieni la calma. ",4.57,2.11,,0.308,0.197125,0.466666667,17,2,8.5,5
+113,morte,N,14,"La febbre alta può essere pericolosa e, seppure raramente, può causare la morte. ",5.63,1.94,11444117-n,0.308,0.260461539,0.461538462,16,2,8,3
+116,morte,N,4,Il soffocamento provoca la morte o danni cerebrali permanenti nel giro di pochi minuti. ,6.3,1.12,11444117-n,0.308,0.2692,0.533333333,16,1,16,3
+111,morte,N,5,Comprendi chi può salvarti dalla morte spirituale. ,2.67,1.86,15143477-n,0.308,0.322125,0.375,9,1,9,3
+112,morte,N,1,La morte è una perdita che tutti dobbiamo necessariamente affrontare nel corso della nostra vita. ,5.26,1.78,07355491-n,0.308,0.201875,0.352941177,18,2,9,4
+115,morte,N,3,Non annoiarla a morte chiedendole qual è l'argomento più interessante del corso di algebra. ,1.95,1.54,,0.308,0.2645,0.5,19,3,6.333333333,5
+385,motivo,N,4,"Quando c'è un motivo di preoccupazione, l'ansia è una risposta a uno scenario reale o immaginario. ",2.37,1.16,,0.346,0.210578947,0.444444444,20,2,10,4
+388,motivo,N,2,Comprendere il motivo per cui la gente si comporta in maniera sgarbata ti permetterà di ampliare la prospettiva sul problema. ,2.27,1.28,00023773-n,0.346,0.25005,0.476190476,22,4,5.5,5
+383,motivo,N,6,È meglio spiegare all'insegnante il motivo per cui non si è riusciti a fare i compiti. ,2.38,1.42,,0.346,0.192294118,0.444444444,19,4,4.75,6
+386,motivo,N,2,Esistono diversi motivi che potrebbero spingerti a migliorarti. ,2.58,1.53,09178999-n,0.346,0.320444444,0.444444444,10,3,3.333333333,4
+384,motivo,N,6,Abusi fisici o psicologici sono un motivo più che valido per rompere immediatamente un rapporto. ,2.68,1.54,00023773-n,0.346,0.259,0.6,16,2,8,4
+387,motivo,N,7,"Prima di agire, devi capire il motivo per cui intendi avere una discussione. ",2.53,1.43,00023773-n,0.346,0.205133333,0.461538462,15,3,5,4
+281,mutilare,V,7,I cani più piccoli rischiano di restare mutilati o uccisi dalle trappole per castori. ,6.2,1,00292672-v,0.538,0.3026,0.6,16,4,4,5
+282,mutilare,V,12,"Presta attenzione ai sintomi precoci del congelamento, per evitare di essere mutilati da questa dolorosa lesione. ",5.63,1.69,00292672-v,0.538,0.2735,0.421052632,21,2,10.5,4
+283,nascondere,V,6,"Inizia con il correttore ( per nascondere borse e occhiaie ), seguito da fondotinta e cipria. ",5.42,1.77,02146790-v,0.462,0.273647059,0.571428571,18,2,9,5
+284,nascondere,V,7,Cerca di capire la fisica che si nasconde dietro alla terza legge di newton. ,2.67,1.88,02146790-v,0.462,0.241642857,0.466666667,16,3,5.333333333,6
+285,nascondere,V,12,Ricarica il fucile se durante lo scontro a fuoco hai possibilità di nasconderti. ,5.77,1.09,02145814-v,0.654,0.263785714,0.5,15,3,5,4
+286,nascondere,V,10,Non è detto che tu conosca i motivi che si nascondono dietro a un comportamento passivo aggressivo. ,2.46,1.44,02145814-v,0.5,0.244294118,0.529411765,18,3,6,5
+288,nascondere,V,0,Nascondi il cibo del cane per stimolarlo a cacciare in un ambiente simulato. ,5.3,1.8,02144835-v,0.577,0.274785714,0.4,16,2,8,4
+287,nascondere,V,11,Le donne si accorgono se sei un orrendo verme che si nasconde dietro l'apparenza di un gentiluomo. ,3.13,1.72,02146790-v,0.462,0.2884375,0.388888889,19,3,6.333333333,5
+240,natura,N,5,"Che tu ti trovi nella natura selvaggia o in un camping attrezzato, la vacanza è sempre una gioia. ",4.43,2.33,05839024-n,0.308,0.2308,0.421052632,21,2,10.5,4
+242,natura,N,4,L'uomo per sua natura è un animale sociale. ,2.3,1.51,04623113-n,0.308,0.1731,0.444444444,10,1,10,3
+239,natura,N,12,"Se l'oculista ha stabilito che si tratta di un'infezione di natura virale, devi essere paziente. ",3,1.93,05849284-n,0.308,0.244352941,0.411764706,19,3,6.333333333,5
+243,natura,N,7,"Ricorda che stai provando a cambiare la natura della relazione, questo è già un grande passo. ",1.73,0.98,05849284-n,0.308,0.198666667,0.529411765,19,5,3.8,7
+241,natura,N,7,Prova questo metodo se vuoi che la natura segua il suo corso. ,3.24,1.82,09503682-n,0.308,0.212846154,0.5,13,3,4.333333333,4
+244,natura,N,1,La natura morta è uno dei primi progetti artistici per qualsiasi pittore in erba. ,4.64,2.13,,0.308,0.241133333,0.466666667,16,1,16,4
+79,nero,N,4,Dipingi la ghirlanda di nero. ,6.26,1.34,04960277-n,0.346,0.294833333,0.6,6,1,6,2
+80,nero,N,13,Qualunque accessorio può essere carino anche se l'uniforme impone solo i colori nero e bianco. ,5.83,1.62,04960277-n,0.346,0.257882353,0.5625,17,2,8.5,5
+110,notizia,N,8,Dai un'occhiata ai siti web che pubblicano notizie il più spesso possibile. ,4.33,1.7,06483339-n,0.346,0.241642857,0.533333333,16,1,16,6
+109,notizia,N,3,Ricevere una brutta notizia è sempre qualcosa di devastante. ,3.65,1.59,06483339-n,0.346,0.2424,0.555555556,10,2,5,3
+431,nutrire,V,6,I gattini appena nati iniziano a nutrirsi con il latte materno. ,6.43,0.68,01182021-v,0.577,0.30125,0.583333333,13,2,6.5,3
+433,nutrire,V,8,La maschera al miele ha lo scopo di nutrire e idratare la pelle e non di detergerla. ,4.53,1.8,01204191-v,0.538,0.2872,0.473684211,20,4,5,5
+435,nutrire,V,5,Usa un buon fertilizzante per nutrire bene la pianta. ,5.37,1.73,01204191-v,0.538,0.2769,0.666666667,10,2,5,3
+432,nutrire,V,3,Il tuo personaggio nutre sentimenti d'odio o rancore nei confronti di uno degli altri personaggi? ,1.93,1.2,01773130-v,0.5,0.2716875,0.444444444,19,1,19,4
+436,nutrire,V,2,Continua a nutrire l'animale con il mangime finché non sarà il momento di liberarlo. ,5.89,1.64,01182021-v,0.538,0.260928571,0.4375,17,4,4.25,3
+434,nutrire,V,2,I ragazzi nutrono interesse per le ragazze che sembrano divertenti e un po' matte. ,2.18,1.41,01773130-v,0.538,0.247214286,0.571428571,15,2,7.5,4
+437,obbedire,V,4,Addestra il cucciolo a obbedire a i tuoi comandi. ,4.46,1.65,02542795-v,0.538,0.307555556,0.444444444,10,2,5,3
+549,obbedire,V,10,"Quando i tuoi genitori ti dicono di fare qualcosa, obbedisci senza controbattere. ",3.96,1.87,02542795-v,0.769,0.2775,0.416666667,14,4,3.5,3
+376,occhio,N,4,Le persone utilizzano gli occhi per comunicare molte emozioni. ,6.33,1.05,05311054-n,0.308,0.2424,0.555555556,10,2,5,3
+375,occhio,N,12,Qualsiasi bravo ozioso passa la maggior parte del tempo a sognare ad occhi aperti. ,3.53,1.96,05311054-n,0.308,0.266733333,0.6,16,2,8,3
+553,offendere,V,11,Ci sono pettegolezzi innocui e altri che invece possono ferire e offendere qualcuno. ,3.2,1.27,01793177-v,0.5,0.281,0.538461539,14,3,4.666666667,4
+439,offendere,V,5,Durante le discussioni evita di offendere il partner. ,3.6,1.65,01793177-v,0.5,0.269142857,0.5,9,2,4.5,3
+554,offendere,V,1,Non offendere l'intelligenza di una donna comportandoti in maniera sarcastica. ,3.07,1.66,01793177-v,0.5,0.272416667,0.583333333,13,2,6.5,5
+438,offendere,V,8,"Mai parlare di politica, altrimenti rischi di offendere involontariamente gli altri. ",3.63,1.65,01793177-v,0.5,0.246833333,0.636363636,13,2,6.5,4
+329,onore,N,7,Nel medioevo i cavalieri erano simbolo di onore e galanteria. ,2.24,1.4,04886881-n,0.385,0.272727273,0.454545455,12,1,12,3
+330,onore,N,12,"Se decidi di uccidere un animale, fai in modo di rendere onore al suo sacrificio. ",1.95,1.43,06697195-n,0.385,0.235625,0.5,18,4,4.5,4
+441,ostacolare,V,8,"Ma non stringere troppo la fasciatura, non ostacolare la circolazione sanguigna. ",4.54,1.96,00236289-v,0.5,0.290272727,0.727272727,13,2,6.5,3
+440,ostacolare,V,8,Mangiare tra un pasto e l'altro può ostacolare il processo di dimagrimento. ,3.11,1.71,00236289-v,0.5,0.2225,0.384615385,14,2,7,5
+443,ostacolare,V,7,Il distanziamento eviterà che le piante si ostacolino la crescita a vicenda. ,4.53,2.05,02452240-v,0.654,0.263153846,0.5,13,2,6.5,4
+442,ostacolare,V,6,La mancanza di intimità fisica potrebbe ostacolare la tua felicità. ,3.57,2.03,02451370-v,0.5,0.2769,0.5,11,1,11,3
+247,padre,N,9,"Vai a fare compere da sola, così tuo padre e tua madre non sapranno cosa stai acquistando. ",6.23,1.1,10080869-n,0.346,0.273263158,0.647058824,19,6,3.166666667,5
+248,padre,N,6,Fissa un incontro con il tuo padre spirituale. ,3.53,1.91,10107303-n,0.346,0.218,0.5,9,1,9,2
+325,parte,N,13,"In base all'uso che devi fare della soluzione, puoi immergervi la parte lesa, pulirla o fare dei gargarismi. ",6.3,1.24,10402824-n,0.192,0.2653,0.47826087,26,4,6.5,5
+323,parte,N,5,Non cercare di recitare la parte della persona che lui vorrebbe. ,2.17,1.23,05929008-n,0.192,0.189,0.5,13,3,4.333333333,5
+324,parte,N,8,"Al fine di richiedere i danni, la parte lesa deve presentare una querela in sede penale, o civile o entrambe. ",4.85,1.91,10402824-n,0.192,0.225238095,0.476190476,24,2,12,4
+322,parte,N,6,"Esercitati con il parkour, una parte fondamentale dell'allenamento di un ninja! ",3.67,1.85,13809207-n,0.192,0.260153846,0.461538462,15,1,15,4
+326,parte,N,5,"Se ti fermi da qualche parte per la notte, informati sugli hotel che accettano animali. ",4.46,1.82,,0.192,0.233,0.4375,18,3,6,4
+321,parte,N,2,"La maggior parte delle volte, gli sfoghi sono dovuti a un aumento dell'afflusso di sangue alla superficie della pelle. ",2.04,1.51,13809207-n,0.192,0.215,0.416666667,26,1,26,5
+298,paura,N,6,Molti adulti hanno ammesso di avere paura del buio. ,2.83,1.65,07524529-n,0.346,0.2384,0.5,11,2,5.5,4
+297,paura,N,4,"Rabbia, panico, paura e frustrazione sono tutte emozioni che sicuramente ti faranno crollare e andare su tutte le furie. ",3.03,1.72,07519253-n,0.346,0.28131579,0.473684211,22,4,5.5,5
+363,pena,N,12,"Non puoi fare due bracciate prendendo il respiro solo una volta, pena la squalifica. ",2.33,1.77,01160342-n,0.346,0.242625,0.642857143,16,3,5.333333333,3
+362,pena,N,5,Tutti cerchiamo di evitare le pene d'amore. ,2.07,1.11,07495327-n,0.423,0.226444444,0.5,9,2,4.5,4
+361,pena,N,7,Una società giusta non deve applicare la pena di morte come forma di punizione. ,4.2,1.91,01160342-n,0.346,0.217071429,0.571428571,15,1,15,4
+364,pena,N,13,Assumere la colpa subito e aiutare con la risoluzione del problema renderà la pena o punizione meno dura. ,3.78,1.69,01160342-n,0.346,0.264764706,0.578947368,20,3,6.666666667,5
+484,pensiero,N,2,Spesso i pensieri che affollano la mente durante la notte sembrano particolarmente opprimenti e inquietanti. ,2.6,1.75,05770926-n,0.385,0.284533333,0.6,16,2,8,4
+483,pensiero,N,8,Fai un respiro profondo per raccogliere i tuoi pensieri e placare le tue emozioni. ,1.93,1.36,05770926-n,0.385,0.277,0.5,15,3,5,4
+485,pensiero,N,3,Esprimere i tuoi pensieri ad alta voce ti permetterà di vederli da un'altra prospettiva. ,2.87,1.51,05770926-n,0.385,0.266875,0.5,17,3,5.666666667,5
+487,pensiero,N,5,Prova a sostituire tutti i pensieri negativi con altri positivi. ,2.61,1.62,07524529-n,0.385,0.241272727,0.6,11,2,5.5,5
+486,pensiero,N,1,I pensieri e le preoccupazioni possono davvero scoraggiarci quando sono assillanti. ,2.66,1.49,05832264-n,0.385,0.28525,0.333333333,13,2,6.5,3
+564,pensiero,N,4,Metti in discussione i pensieri negativi che riguardano il tuo corpo. ,2.86,1.9,05832264-n,0.385,0.23725,0.545454546,12,2,6,4
+413,pericolo,N,5,Il marciapiede ghiacciato rappresenta un pericolo per la propria sicurezza. ,3.9,1.82,14540765-n,0.385,0.234181818,0.5,11,1,11,3
+414,pericolo,N,6,Aiutare qualcuno che si trova in pericolo di vita è certamente un gesto coraggioso. ,3.98,1.58,14540765-n,0.385,0.218,0.5,15,3,5,6
+345,persona,N,2,Decidi quante persone vuoi che facciano parte del tuo club. ,5.77,1.72,00007846-n,0.269,0.294777778,0.545454546,12,3,4,5
+346,persona,N,14,Una porzione di petto di tacchino è di circa 125-250 g a persona.,4.77,1.77,00007846-n,0.308,0.263785714,0.428571429,16,1,16,4
+502,perspicacia,N,5,Divertire i tuoi lettori con perspicacia aiuterà il tuo scritto ad ottenere risonanza. ,2.9,1.45,05621439-n,0.654,0.307714286,0.538461539,14,4,3.5,5
+503,perspicacia,N,12,Il grande primo ministro inglese winston churchill era noto per la sua perspicacia. ,2.77,1.87,04890361-n,0.654,0.307642857,0.461538462,14,1,14,3
+444,pitturare,V,5,"Se possibile, cerca di pitturare la barca in una giornata con circa 15,5 – 26,5 °c.",6.21,1.36,01362736-v,0.731,0.2570625,0.466666667,18,2,9,5
+550,pitturare,V,1,Puoi pitturare l'argilla cotta con dei colori acrilici. ,6.18,1.16,01362736-v,0.731,0.375888889,0.5,11,1,11,3
+309,pizza,N,1,La pizza al formaggio fatta in casa è uno dei piaceri semplici della vita. ,6.77,0.71,07873807-n,0.462,0.225666667,0.411764706,18,2,9,5
+310,pizza,N,2,Cuoci la pizza in forno per 15 minuti.,6.85,0.61,07873807-n,0.462,0.269222222,0.5,9,1,9,3
+89,porta,N,7,Connetti l'altro capo del cavo alla porta di ingresso del preamplificatore. ,6.6,1,03578656-n,0.308,0.285333333,0.466666667,16,1,16,4
+92,porta,N,14,"Se hai problemi di connessione con qualche programma, potresti dover aprire manualmente alcune porte. ",4.37,1.88,,0.385,0.2620625,0.5,16,2,8,5
+90,porta,N,4,Vernicia la superficie della porta e sembrerà nuova di zecca! ,6.9,0.55,03221720-n,0.308,0.293636364,0.545454546,12,2,6,4
+91,porta,N,7,Sostenere colloqui di lavoro ti apre altre porte e aumenta le possibilità di stabilire nuovi contatti. ,2.17,1.12,05180881-n,0.385,0.2644375,0.625,17,4,4.25,5
+87,porta,N,5,Assicurati di poter aprire la porta velocemente senza colpire nessuno. ,6.75,0.67,03221720-n,0.308,0.269363636,0.5,11,3,3.666666667,3
+88,porta,N,2,"Apri una porta a qualcuno in difficoltà, fai volontariato, qualsiasi cosa ti riempia d'amore. ",2.7,1.92,05180881-n,0.308,0.2669375,0.533333333,18,3,6,3
+517,possibilità,N,6,Sii consapevole di tutte le numerose possibilità di riciclo del vetro. ,3.06,1.97,05792010-n,0.269,0.272636364,0.416666667,13,1,13,4
+515,possibilità,N,12,Eliminare i residui di cibo e sporcizia può aiutare a ridurre le possibilità d'infezione. ,2.94,1.78,05951180-n,0.269,0.25,0.533333333,16,3,5.333333333,5
+514,possibilità,N,5,Alcuni siti ti offrono la possibilità di pubblicare un video allegato al cv. ,2.8,1.45,14483917-n,0.269,0.243416667,0.5,14,3,4.666666667,6
+516,possibilità,N,3,"Se hai la possibilità di controllare il termostato della stanza, impostalo su una temperatura gradevole. ",2.89,1.62,05792010-n,0.269,0.257882353,0.5,18,2,9,7
+543,prestigio,N,12,"Le aziende piccole offrono più opportunità, mentre quelle grandi danno più prestigio al tuo curriculum. ",2.23,1.65,14435809-n,0.462,0.263714286,0.625,18,2,9,3
+562,prestigio,N,5,"Per un leader, il prestigio o il benessere sono un effetto collaterale, piuttosto che una motivazione. ",2.17,1.12,14435809-n,0.462,0.2115625,0.4375,19,1,19,3
+542,prestigio,N,14,"Quando vogliamo essere incoraggiati e accettati, rincorriamo il sogno di guadagnare soldi e prestigio. ",2.03,1.12,14435809-n,0.462,0.2898,0.5,16,4,4,5
+544,prestigio,N,8,Ricorda che venire recensito da qualcuno ti darà prestigio. ,2.3,1.24,07531536-n,0.462,0.2923,0.444444444,10,3,3.333333333,4
+511,problema,N,14,"A causa del suo muso corto, il bulldog inglese tende a soffrire di problemi respiratori. ",5.07,1.72,14410605-n,0.269,0.2740625,0.5625,18,2,9,3
+508,problema,N,7,La spaziatura tra i denti è un problema comune che viene affrontato con l'apparecchio. ,4.2,1.86,05687338-n,0.269,0.225533333,0.4,16,2,8,3
+510,problema,N,6,"Per trovare la soluzione finale del problema, prendi il logaritmo in base 10 e moltiplicalo per 10.",4.08,2.1,06784003-n,0.269,0.235294118,0.421052632,21,3,7,4
+509,problema,N,2,Pensa ai problemi che devono affrontare gli adolescenti. ,2.79,1.53,05814291-n,0.269,0.230777778,0.444444444,10,2,5,4
+520,qualità,N,8,Lava i capelli con uno shampoo di buona qualità. ,2.63,1.45,04728068-n,0.269,0.2538,0.555555556,10,1,10,3
+523,qualità,N,1,La qualità del cibo per gatti disponibile in commercio varia a seconda del prodotto. ,2.7,1.64,04728068-n,0.269,0.228071429,0.5,17,1,17,4
+518,qualità,N,9,"Sviluppando una buona routine serale, potrai migliorare la qualità e la durata del sonno. ",2.96,1.61,04728068-n,0.269,0.261533333,0.533333333,17,2,8.5,4
+521,qualità,N,8,La direzione del sole avrà un impatto sulla qualità delle foto. ,4.31,1.78,04728068-n,0.269,0.211416667,0.428571429,15,1,15,4
+519,qualità,N,3,"Non necessariamente la qualità si rifletterà nel prezzo, anche se è un indicatore abbastanza buono. ",3.08,1.58,04728068-n,0.269,0.217235294,0.5625,18,2,9,3
+522,qualità,N,2,Bada alla qualità del tempo che trascorri con tuo figlio. ,2.45,1.5,05138488-n,0.269,0.255181818,0.416666667,13,1,13,5
+187,ragazza,N,4,Puoi dimostrare a una ragazza che l'ami investendo un po' del tuo tempo in qualcosa che la faccia felice. ,5.47,1.89,10130686-n,0.385,0.22695,0.380952381,22,2,11,6
+190,ragazza,N,6,Sostieni una conversazione con la tua ragazza riguardo alla vostra relazione. ,6.43,1.22,10130686-n,0.385,0.26275,0.416666667,13,1,13,3
+188,ragazza,N,2,Ad alcune ragazze timide piacciono le persone divertenti. ,6.21,1.24,10129825-n,0.385,0.303444444,0.625,9,1,9,2
+189,ragazza,N,2,Se una ragazza copia i tuoi atteggiamenti potrebbe imitarti in modo inconscio. ,6.36,1.11,10129825-n,0.385,0.292923077,0.5,13,2,6.5,3
+464,ragazzo,N,3,"Se vedi un ragazzo che ti sta venendo incontro, non cambiare atteggiamento. ",6.4,1.14,10804287-n,0.385,0.225285714,0.583333333,14,3,4.666666667,4
+466,ragazzo,N,4,Non è facile trovare ragazzi che siano davvero capaci di essere divertenti. ,6,1.48,10804287-n,0.308,0.210153846,0.583333333,13,4,3.25,5
+465,ragazzo,N,13,Usare gli occhi è un ottimo modo di attirare l'attenzione di un ragazzo. ,6.1,1.3,10804287-n,0.385,0.230916667,0.5,15,3,5,4
+563,ragazzo,N,1,Molti ragazzi vengono accompagnati dai genitori il primo giorno di scuola ,6.35,1.05,09917593-n,0.308,0.244727273,0.5,12,1,12,3
+534,re,N,8,Spesso colui che porta la cattiva notizia al re è la prima vittima della guerra. ,5.27,1.48,10231515-n,0.346,0.225533333,0.470588235,18,2,9,4
+535,re,N,5,Comportati come se fossi un re. ,3.27,2.2,10231515-n,0.346,0.247285714,0.5,7,2,3.5,3
+496,risposta,N,4,"Gli incubi innescano una risposta fisiologica, come accelerazione del battito cardiaco e sudorazione fredda. ",4.37,1.63,00859001-n,0.308,0.3148125,0.6,17,1,17,4
+497,risposta,N,4,"Per trovare una bella risposta ironica, dovrai replicare direttamente a ciò che ti hanno detto. ",4.1,1.99,06746005-n,0.308,0.242,0.466666667,17,3,5.666666667,3
+494,risposta,N,5,I vaccini agiscono stimolando la risposta del sistema immunitario a degli specifici microrganismi. ,4.29,2.35,00859001-n,0.308,0.285571429,0.533333333,16,2,8,6
+495,risposta,N,5,"Anche se non dai la risposta corretta, dimostrerai che ti sei impegnato. ",4.74,1.41,06746005-n,0.308,0.2225,0.461538462,15,2,7.5,3
+343,risultato,N,2,Analizza i risultati dell'ecocardiogramma per accertare irregolarità nelle dimensioni e nel movimento del cuore. ,6.15,1.16,07292694-n,0.308,0.2644375,0.421052632,20,2,10,4
+344,risultato,N,10,La qualità della carne è fondamentale in quanto determinerà il risultato finale della tua zuppa. ,4.69,1.49,11414411-n,0.308,0.235866667,0.470588235,18,2,9,4
+342,risultato,N,12,Moltiplica l'area della base per la sua altezza e dividi il risultato per 3.,3.85,1.98,05859630-n,0.308,0.2225,0.375,17,2,8.5,7
+341,risultato,N,4,La dieta vegetariana produce risultati molto positivi durante la gravidanza. ,3.93,1.49,11414411-n,0.308,0.3116,0.7,11,1,11,3
+445,salutare,V,1,Inizia salutando il ragazzo con un cenno quando lo incontri in classe. ,6.33,0.71,00897241-v,0.615,0.245615385,0.5,13,1,13,6
+551,salutare,V,6,Sorridi mentre parli o mentre vi salutate. ,5.5,1.01,00897241-v,0.692,0.351571429,0.375,9,3,3,3
+555,salvare,V,9,"Considera se, nonostante tutto, vale la pena salvare il vostro rapporto. ",2.43,1.55,02551144-v,0.423,0.224769231,0.454545455,14,3,4.666666667,4
+447,salvare,V,5,"Se sei preparato, potrai salvare la vita di un altro individuo. ",4.2,2.02,02550868-v,0.423,0.207153846,0.454545455,13,2,6.5,3
+556,salvare,V,14,"Le misure di sicurezza, come gli estintori e le pareti ignifughe, hanno salvato migliaia di vite. ",4.87,2.02,02550868-v,0.462,0.2668125,0.5,19,1,19,4
+446,salvare,V,2,Puoi anche salvare pagine al tuo “elenco lettura” o sulla schermata principale del tuo ipad. ,4.47,2.06,,0.423,0.29325,0.333333333,21,1,21,5
+557,salvare,V,14,"L'apicoltore non solo sarà felice di rimuovere le api, ma potrebbe anche salvare una specie in pericolo. ",4.46,1.77,02550868-v,0.423,0.23085,0.555555556,20,3,6.666666667,5
+448,salvare,V,4,Talvolta arrossire potrebbe quindi salvarti da una spiacevole discussione. ,2.66,1.24,02550868-v,0.654,0.3269,0.666666667,10,2,5,3
+559,soffocare,V,3,"Le erbacce possono soffocare i fagiolini, impedendo loro di emergere in superficie. ",4.8,1.47,,0.538,0.271857143,0.5,14,3,4.666666667,4
+449,soffocare,V,10,"Sappi soltanto che sta cercando di aiutarti, pertanto non soffocare le tue emozioni. ",2.07,1.01,02423762-v,0.538,0.261466667,0.538461539,15,2,7.5,4
+560,soffocare,V,3,Il cavallo può soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare. ,5.8,1.24,00359511-v,0.538,0.2811875,0.6,16,4,4,5
+451,soffocare,V,4,Potrebbe non essere simpatico soffocare il tuo orgoglio. ,1.93,1.05,02423762-v,0.538,0.256444444,0.5,9,2,4.5,3
+558,soffocare,V,5,Usa una coperta antincendio per soffocare il fuoco. ,4.87,2.06,01569017-v,0.538,0.273444444,0.625,9,2,4.5,4
+450,soffocare,V,3,Il cavallo può soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare. ,5.47,1.7,00359511-v,0.538,0.2811875,0.6,16,4,4,5
+477,sogno,N,1,I sogni erotici non sono nulla per cui sentirsi in colpa. ,3.18,2.19,05768553-n,0.385,0.227666667,0.416666667,13,2,6.5,3
+482,sogno,N,2,Fare spesso sogni ricorrenti e inquietanti potrebbe essere il segnale di un malessere psicologico. ,2.85,1.94,05768553-n,0.385,0.251333333,0.571428571,15,2,7.5,5
+478,sogno,N,2,Il tuo sogno di diventare un artista famoso potrebbe non essere così assurdo come sembra. ,2.46,1.63,05768806-n,0.385,0.2236875,0.533333333,16,3,5.333333333,4
+479,sogno,N,4,Resta concentrato sui tuoi sogni e sugli obiettivi per la tua carriera. ,2.19,1.55,05768806-n,0.385,0.254538462,0.357142857,15,1,15,5
+480,sogno,N,6,Quando ti svegli registra i tuoi sogni in un diario. ,3.48,1.8,05768553-n,0.385,0.272818182,0.3,11,1,11,3
+481,sogno,N,4,Organizza un appuntamento da sogno senza spendere una fortuna. ,1.83,1.15,05768806-n,0.385,0.2539,0.555555556,10,2,5,3
+350,spazio,N,16,Poni sotto gli scaffali una scrivania o un tavolino da toeletta per sfruttare al meglio lo spazio verticale. ,5.87,1.07,13910384-n,0.308,0.287368421,0.473684211,20,1,20,3
+349,spazio,N,6,In questo modo non dovrai creare spazio sul tuo cellulare per il file di aggiornamento. ,4,1.62,13910384-n,0.308,0.2163125,0.4375,17,1,17,4
+352,spazio,N,2,Lascia dello spazio in valigia per lo shopping. ,6.2,0.92,13910384-n,0.308,0.248,0.444444444,10,1,10,3
+353,spazio,N,6,"Se puoi permettertelo, compra degli spazi pubblicitari in radio o in tv per promuovere la tua attività. ",4.3,2.17,,0.346,0.262944444,0.444444444,20,2,10,3
+354,spazio,N,18,"Poiché sulla terra siamo soggetti alla gravità, la vita quotidiana non è utile a simulare quella nello spazio. ",5.05,2.23,08500433-n,0.308,0.2327,0.380952381,23,3,7.666666667,4
+351,spazio,N,1,Concedi spazio al tuo fidanzato. ,2.74,1.86,,0.308,0.314166667,0.5,7,1,7,2
+319,speranza,N,14,"Quando una storia finisce, non cercare di negare l'evidenza aggrappandoti a false speranze. ",2,1.19,07541053-n,0.423,0.266733333,0.6,17,4,4.25,3
+320,speranza,N,17,"Se ti sembra di trovarti in un luogo deserto, urla con tutta la forza, nella speranza che arrivi qualcuno. ",2.06,1.21,07511733-n,0.346,0.219761905,0.4,23,2,11.5,4
+289,spirito,N,9,"Mentre alcuni avvocati rifiuteranno l'offerta, quelli con spirito imprenditoriale saranno deliziati dall'idea. ",1.53,0.68,04624826-n,0.346,0.298,0.466666667,17,2,8.5,3
+291,spirito,N,6,Se stai cercando di contattare lo spirito di una persona defunta hai bisogno di usare un amuleto per attirarlo. ,1.93,1.46,09545324-n,0.346,0.299166667,0.55,21,6,3.5,6
+292,spirito,N,12,"Se non riesci a trovare un isopropile, va bene anche lo spirito metilato. ",6.03,1.4,14708720-n,0.346,0.2744,0.692307692,15,3,5,4
+290,spirito,N,7,Niente più di una partita inneggia allo spirito di squadra. ,1.83,1.28,14526182-n,0.346,0.2538,0.454545455,12,1,12,4
+211,storia,N,11,Il medico può scegliere la terapia farmacologica in base alla tua storia clinica. ,4.37,1.85,15121406-n,0.269,0.241714286,0.5,15,1,15,3
+213,storia,N,5,I personaggi possono rovinare la storia molto più della trama. ,2.87,1.55,06369829-n,0.269,0.220181818,0.545454546,12,1,12,4
+212,storia,N,1,La storia clinica della tua famiglia potrebbe essere la causa del problema. ,3.42,1.94,15121406-n,0.269,0.211583333,0.357142857,15,1,15,3
+214,storia,N,4,I bambini piccoli preferiscono storie con trame e parole semplici. ,4.33,1.98,06369829-n,0.385,0.269181818,0.7,11,1,11,4
+237,strada,N,1,Percorri strade in salita con la bici. ,6.57,0.97,03895293-n,0.346,0.281833333,0.428571429,8,1,8,2
+238,strada,N,10,Accettare di avere un problema è il primo passo sulla strada della ripresa. ,2.4,1.43,00174003-n,0.308,0.189571429,0.466666667,16,3,5.333333333,4
+233,strada,N,2,Cambia la strada che percorri per recarti nei luoghi abituali. ,6.04,1.31,08679972-n,0.308,0.297090909,0.545454546,12,2,6,4
+234,strada,N,4,"Se vuoi imboccare la strada del successo, devi porti traguardi realistici. ",2.38,1.55,00174003-n,0.308,0.281076923,0.5,14,2,7,4
+235,strada,N,6,Trova un parcheggio vuoto o una strada secondaria tranquilla. ,6.43,1.01,04096066-n,0.308,0.2617,0.666666667,10,1,10,3
+236,strada,N,4,Decidere di intraprendere la strada della guarigione è già un enorme passo avanti. ,1.8,1.09,00415676-n,0.308,0.228142857,0.571428571,15,3,5,5
+347,successo,N,9,La somministrazione localizzata degli steroidi ha un tasso di successo del 95 % entro sei mesi dalla cura.,4,1.82,07319103-n,0.308,0.251,0.380952381,22,1,22,4
+348,successo,N,5,Per restare sulla strada del successo sono necessarie una buona pianificazione e un'onestà totale. ,2.43,1.43,00062806-n,0.308,0.2308125,0.470588235,18,2,9,4
+181,tempo,N,2,Valuta quanto tempo sei in grado di dedicare all'attività di volontariato. ,4.5,2.04,15270431-n,0.231,0.230916667,0.461538462,14,3,4.666666667,5
+182,tempo,N,2,Concediti il tempo per dedicarti alle attività che ti piacciono. ,3.71,1.97,15270431-n,0.231,0.269181818,0.384615385,14,3,4.666666667,4
+357,terra,N,6,Piazza l'albero sul cumulo di terra. ,6.89,0.47,14844693-n,0.308,0.23075,0.5,9,1,9,4
+358,terra,N,2,"Presenti sulla terra dall'epoca preistorica, esistono decine di migliaia di specie diverse di felci. ",6.03,1.38,09270894-n,0.308,0.2924,0.588235294,19,1,19,7
+355,terra,N,5,"Poggia la palla medica per terra, davanti a te. ",6.48,0.88,14842992-n,0.308,0.223818182,0.555555556,11,1,11,3
+356,terra,N,6,Fissa il cavo di messa a terra. ,4.48,1.97,03462747-n,0.308,0.202,0.571428571,8,1,8,4
+70,testa,N,3,Assicurati che la testa sia sollevata più in alto rispetto al resto del corpo. ,6.57,1.41,05256085-n,0.308,0.207733333,0.5,17,2,8.5,4
+69,testa,N,7,Tu non sei i pensieri nella tua testa. ,4.6,1.92,05611302-n,0.308,0.213777778,0.333333333,10,1,10,3
+68,testa,N,10,Consulta il tuo medico curante in caso il mal di testa fosse più grave. ,6.13,1.43,05538625-n,0.308,0.2555,0.571428571,15,3,5,4
+67,testa,N,7,"Non riesci a farla uscire dalla tua testa, pensi a lei in continuazione e ovunque vai. ",2.9,1.58,05611302-n,0.308,0.255764706,0.5,20,5,4,4
+452,tradire,V,4,Cerca di capire perché tradisci il tuo partner. ,3.94,2.01,02576503-v,0.731,0.280285714,0.5,9,3,3,4
+454,tradire,V,5,Non fare minacce e non tradire le tue intenzioni quando hai deciso di combattere. ,2.58,1.48,02575082-v,0.538,0.252785714,0.571428571,15,4,3.75,4
+453,tradire,V,1,"Quando tradisci la fiducia di qualcuno, questo può scatenare emozioni forti in entrambi. ",2.38,1.39,02575082-v,0.731,0.260384615,0.384615385,15,2,7.5,4
+455,tradire,V,12,Mediante il linguaggio del corpo e le espressioni del viso rischi di tradire le tue vere emozioni. ,2.58,1.3,00936330-v,0.538,0.2595625,0.421052632,20,2,10,4
+365,ufficio,N,3,Recati presso l'ufficio del tribunale distrettuale e consegna i documenti al cancelliere. ,6.37,1.13,00936330-v,0.308,0.260928571,0.466666667,16,2,8,3
+366,ufficio,N,4,Le migliori sedie da ufficio dovrebbero offrire un supporto lombare. ,5.47,1.53,00936330-v,0.308,0.283181818,0.6,11,1,11,3
+368,ufficio,N,6,Ci sono molti oggetti nel tuo ufficio che puoi riciclare. ,6.53,0.85,00936330-v,0.308,0.244727273,0.363636364,12,2,6,3
+367,ufficio,N,7,"Lavora con i piccoli negozianti, gli uffici della zona e le chiese. ",6,1.06,00936330-v,0.346,0.208714286,0.461538462,15,1,15,3
+456,umiliare,V,2,Evita di umiliare i tuoi impiegati o le persone con cui lavori. ,3.57,1.85,01799794-v,0.615,0.239538462,0.416666667,13,2,6.5,6
+552,umiliare,V,6,Può capitare che qualcuno cerchi di umiliarti. ,2.93,1.48,01800422-v,0.769,0.283625,0.375,9,3,3,3
+104,unità,N,12,"Per attaccare la griglia di una ventola, collega il motore all'unità elettrica e fissalo con le viti fornite. ",5.97,1.61,13810323-n,0.308,0.260047619,0.476190476,23,3,7.666666667,4
+103,unità,N,7,Utilizza delle attività concrete pensate per ogni unità didattica. ,4.21,2.06,13810323-n,0.308,0.2577,0.6,11,1,11,4
+106,unità,N,7,"Se è il caso, pulisci l'unità esterna del condizionatore. ",6.03,1.48,13810323-n,0.308,0.221166667,0.454545455,13,2,6.5,3
+105,unità,N,4,I decibel sono un'unità logaritmica a base 10.,2.46,1.62,13583724-n,0.308,0.2577,0.444444444,10,1,10,2
+107,unità,N,11,Controlla costantemente il respiro e il polso fino all'intervento dell'unità di emergenza. ,4.95,1.77,08189659-n,0.308,0.241785714,0.5,17,1,17,4
+108,unità,N,5,Ricorda di indicare sempre le unità di misura appropriate. ,3.2,1.95,13583724-n,0.308,0.243666667,0.666666667,10,2,5,4
+315,uomo,N,14,"Rafforza la stretta afferrandogli l'avambraccio con l'altra mano, proprio come un uomo d'affari. ",4.67,1.65,10288763-n,0.269,0.257823529,0.529411765,19,2,9.5,3
+318,uomo,N,3,Non sempre l'uomo della strada ha accesso a tutte le informazioni pertinenti. ,4.53,1.53,02472293-n,0.269,0.189642857,0.571428571,15,1,15,3
+316,uomo,N,1,"L'uomo è un animale sociale e, in virtù di questa caratteristica, è incline a parlare con chi non conosce. ",4.67,2.06,02472987-n,0.269,0.190476191,0.45,23,4,5.75,6
+317,uomo,N,2,Un vero uomo sa che in campo amoroso è la donna a scandire il ritmo. ,4.3,1.73,10288516-n,0.269,0.2114375,0.533333333,16,3,5.333333333,4
+504,vantaggio,N,6,Ridurre il grasso corporeo offre molti vantaggi e benefici per la salute. ,3.79,1.96,05155821-n,0.423,0.254384615,0.583333333,13,2,6.5,4
+507,vantaggio,N,6,Un registratore portatile digitale ha il vantaggio di essere relativamente piccolo e portatile. ,3.03,1.92,05155821-n,0.385,0.230769231,0.615384615,14,2,7,4
+505,vantaggio,N,5,"Se sai di avere un vantaggio sul tuo avversario, assicurati di sfruttarlo con saggezza. ",2.62,1.44,05155821-n,0.385,0.2616,0.4375,18,4,4.5,5
+506,vantaggio,N,11,"Se costruisci un buon giro di colleghi, sarà di tutto vantaggio per la tua carriera. ",2.58,1.36,05155821-n,0.385,0.2236875,0.4,17,2,8.5,4
+93,verde,N,4,Scegli diversi tipi di verde per rendere il fogliame realistico e profondo. ,5.23,1.59,13153633-n,0.346,0.269153846,0.583333333,13,2,6.5,5
+94,verde,N,13,"Rosso e giallo formano l'arancione, mentre giallo e blu formano il verde. ",5.73,1.54,04967191-n,0.346,0.249916667,0.461538462,15,2,7.5,4
+415,verità,N,8,"In un modo o nell'altro, la verità viene sempre a galla. ",1.87,1.25,06724066-n,0.346,0.170357143,0.384615385,15,1,15,3
+417,verità,N,6,Hai l'obbligo di dire la verità e di essere un modello di comportamento per gli altri. ,2.43,1.61,13956488-n,0.346,0.1730625,0.352941177,18,3,6,6
+416,verità,N,2,"Diciamo la verità, ognuno di noi ha delle cattive abitudini. ",2.3,1.32,06724066-n,0.346,0.224333333,0.454545455,13,2,6.5,3
+418,verità,N,7,"Affronta le conseguenze di aver scoperto la verità, qualunque essa sia. ",2.77,1.65,13956488-n,0.346,0.212923077,0.454545455,13,3,4.333333333,4
+561,viaggiare,V,13,"Tutti i cittadini statunitensi, neonati inclusi, devono avere un passaporto quando viaggiano in aereo all'estero. ",5.97,1.17,01845720-v,0.5,0.271529412,0.529411765,20,4,5,4
+458,viaggiare,V,12,"Utilizza la costante matematica della velocità della luce, velocità a cui viaggiano le onde elettromagnetiche. ",3.76,2.02,,0.5,0.251266667,0.470588235,19,1,19,4
+457,viaggiare,V,3,Decidi se vuoi viaggiare su una nave da crociera grande o piccola. ,5.51,1.2,01845720-v,0.462,0.281,0.5,13,2,6.5,6
+459,viaggiare,V,9,Le placche presenti nelle arterie carotidi si staccano e viaggiano nel sistema sanguigno. ,4.6,1.8,,0.5,0.337857143,0.466666667,16,2,8,4
+524,viaggio,N,2,Organizza dei viaggi nel fine settimana quando entrambi avete del tempo libero. ,4.63,1.79,00306426-n,0.423,0.248538462,0.466666667,16,2,8,3
+526,viaggio,N,6,Pesa le tue valigie prima del viaggio per evitare costosi supplementi. ,4.5,1.61,00306426-n,0.346,0.30125,0.583333333,13,2,6.5,4
+525,viaggio,N,2,"Per un viaggio sicuro in macchina, è importante limitare i movimenti dell'animale. ",5.2,1.61,00306426-n,0.346,0.208785714,0.5,16,2,8,4
+527,viaggio,N,6,Segui questi passaggi per iniziare il viaggio lungo il tuo cammino artistico. ,2.23,1.43,00306426-n,0.346,0.2885,0.5,13,2,6.5,4
+529,viaggio,N,5,Ti telefonerò dopo il mio viaggio in spagna per raccontarti com'è andata. ,5.05,1.45,00306426-n,0.346,0.284,0.307692308,14,2,7,3
+528,viaggio,N,8,Ricordi quanto sembravano terribili e noiosi i lunghi viaggi in auto quando eri un bambino? ,4.9,1.46,00306426-n,0.423,0.2981875,0.6,16,3,5.333333333,5
+463,vincere,V,7,La squadra che ha totalizzato più punti vince la partita. ,4.94,1.94,01101913-v,0.423,0.2422,0.6,11,2,5.5,4
+462,vincere,V,7,Cedi su alcune parti della discussione per vincere la disputa generale. ,3.24,1.84,01101734-v,0.385,0.259583333,0.5,13,2,6.5,3
+460,vincere,V,2,"Tutti vorrebbero vincere la lotteria, ma la maggior parte di noi non azzecca un numero. ",4.04,2.01,01101913-v,0.385,0.2235,0.466666667,17,2,8.5,3
+461,vincere,V,1,Potrai vincere le tue paure mettendole per iscritto. ,2.04,1.18,01108627-v,0.385,0.320666667,0.444444444,10,2,5,3
+397,vista,N,9,I conigli hanno un ottimo udito e un'ottima vista e possono individuare i predatori facilmente. ,5.33,1.56,05654362-n,0.308,0.282066667,0.5625,17,2,8.5,3
+396,vista,N,6,È molto importante non perdere di vista la propria felicità. ,1.6,1,04950126-n,0.308,0.185272727,0.6,11,2,5.5,3
+398,vista,N,8,"Oltre ad essere sgradevole all'olfatto e alla vista, la muffa può danneggiare la nostra salute. ",5.03,1.58,05654362-n,0.308,0.248823529,0.388888889,20,2,10,4
+395,vista,N,10,L'approccio altruistico implica vedere la situazione dal punto di vista dell'altra persona. ,2.05,1.38,04950126-n,0.308,0.257461539,0.5625,17,2,8.5,4
+58,vita,N,16,Un riposo di qualità può giovare alla memoria e alla creatività e aumentare l'aspettativa di vita. ,4.2,1.85,13961642-n,0.231,0.2436,0.421052632,20,2,10,4
+55,vita,N,5,Devi anche avere una tua vita indipendente dalla tua relazione. ,3.4,1.87,13961399-n,0.231,0.2346,0.454545455,12,1,12,2
+57,vita,N,12,"Il modo in cui si sorride può influenzare la carriera, la vita sociale e i rapporti sentimentali. ",3.55,1.64,04930632-n,0.231,0.207166667,0.470588235,19,2,9.5,4
+56,vita,N,4,"Se cominciare una nuova vita fosse facile, le persone sarebbero in continua evoluzione. ",2.94,1.77,13961399-n,0.231,0.217933333,0.538461539,15,3,5,3
+403,vittima,N,6,Esistono diverse istituzioni che aiutano le vittime di abusi. ,5.91,1.25,10752093-n,0.346,0.2424,0.555555556,10,2,5,5
+404,vittima,N,5,Quasi tutti gli scrittori cadono vittime del cosiddetto blocco dello scrittore. ,2.46,1.24,10752093-n,0.346,0.282083333,0.538461539,14,1,14,4
+472,vittoria,N,2,Annuncia la vittoria al concorrente che ha ottenuto il punteggio più alto. ,4.13,2.13,07354731-n,0.385,0.218923077,0.538461539,14,2,7,5
+475,vittoria,N,3,Festeggia le piccole vittorie. ,3.3,1.64,07473441-n,0.462,0.2846,0.75,5,1,5,2
+473,vittoria,N,3,Puoi puntare sulla vittoria del banco o del giocatore. ,4.47,2.02,07473441-n,0.385,0.277888889,0.333333333,13,1,13,4
+476,vittoria,N,6,La dignità e l'umiltà nella vittoria e nella sconfitta sono fondamentali. ,2.87,1.79,07354731-n,0.385,0.223818182,0.357142857,15,1,15,4
+471,vittoria,N,8,"Se sfuggi alla battaglia, devi scordarti della vittoria e della gioia che viene con essa. ",2.4,1.35,07473441-n,0.385,0.254875,0.388888889,20,2,10,7
+474,vittoria,N,11,Le risposte migliori sono quelle che ti permettono di ottenere una vittoria morale. ,2.08,1.31,07473441-n,0.385,0.225142857,0.461538462,14,3,4.666666667,4
